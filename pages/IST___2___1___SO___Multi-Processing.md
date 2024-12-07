@@ -31,7 +31,12 @@
 		- Programming
 			- Create new Child Process
 				- ```cpp
+				  #include <sys/types.h>
+				  #include <unistd.h>
+				  
+				  pid_t fork(void);
 				  ```
+				-
 	- Child Processes
 		- States
 			- Zombie
