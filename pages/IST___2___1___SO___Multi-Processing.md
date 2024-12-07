@@ -18,7 +18,7 @@
 			- Virtual Memory space
 			- CPU User Mode
 			- Stores all the memory needed to continue the execution of a certain program.
-			-
+			- Other info is stored... (e.g. Parent process, priority, etc..)
 	- Child Processes
 		- States
 			- Zombie
