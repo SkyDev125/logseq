@@ -28,6 +28,7 @@
 				- Memory Management
 			- Process 1
 				- System Initialization
+				- Adopts children
 	- Child Processes
 		- States
 			- Zombie
