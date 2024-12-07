@@ -20,7 +20,9 @@
 			- Stores all the memory needed to continue the execution of a certain program.
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 			- Can create new Threads and Child Processes
-			- There's always a
+		- Reserved
+			- Process 0 - Memory Management
+			- Process 1 -
 	- Child Processes
 		- States
 			- Zombie
