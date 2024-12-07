@@ -29,7 +29,9 @@
 				- System Initialization
 				- Adopts all Child Processes that lost their Parent.
 		- Programming
-			- Start a new
+			- Create new Child Process
+				- ```cpp
+				  ```
 	- Child Processes
 		- States
 			- Zombie
@@ -37,3 +39,4 @@
 			- The operating system guarantees that the child can access an exact copy (snapshot) of memory of the Parent Process
 		- After exiting
 			- The child will be in a "Zombie" state, where it will keep its information waiting for the parent to retrieve it, or dismiss it.
+-
