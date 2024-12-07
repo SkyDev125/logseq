@@ -1,6 +1,7 @@
 - Processes
 	- Child Processes
-		- When
+		- When created:
+			- The operating system guarantees that the child can access an exact copy of the data
 - Threads
 	- Min 1 per process
 	- Share memory with process
