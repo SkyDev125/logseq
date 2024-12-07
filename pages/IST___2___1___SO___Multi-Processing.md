@@ -1,6 +1,8 @@
 - References
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
+	- Definition
+		- Operating System Abstraction that allows for the execution of programs.
 	- Pseudo-Concurrency
 		- Definition
 			- Apparent multitasking through rapid switching
