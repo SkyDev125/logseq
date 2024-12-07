@@ -1,0 +1,3 @@
+- Min 1 per process
+- Share memory with process
+-
