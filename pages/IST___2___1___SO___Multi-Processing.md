@@ -2,7 +2,9 @@
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
 	- Pseudo-Concurrency
-		- The operating system can only have as many Threads as there are cpu cores.
+		- The operating system can only have as many Threads as there are cpu cores* runing simultaneously.
+		- But we can create as many processes and threads as we need. though not
+		  id:: 6754cb9e-aca5-478f-93aa-448d2491cfb1
 	- Child Processes
 		- States
 			- Zombie
