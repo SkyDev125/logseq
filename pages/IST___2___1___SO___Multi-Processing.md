@@ -14,7 +14,9 @@
 		- Definition
 			- Operating System Abstraction that allows for the execution of programs.
 		- Properties
-			- Virtual memory
+			- Similar to a Virtual Machine
+			- Virtual Memory space
+			-
 	- Child Processes
 		- States
 			- Zombie
