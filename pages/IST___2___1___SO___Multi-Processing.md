@@ -3,7 +3,7 @@
 - Notes
 	- Pseudo-Concurrency
 		- The operating system can only have as many Threads as there are cpu cores* runing simultaneously.
-		- But we can create as many processes and threads as we need. though not
+		- Which means, that even if we create thousands of processes, the Operating system can still allow them to work, by scheduling them to operate from x to y, pausing, and then continuing some other process, following their priority and some optimization
 		  id:: 6754cb9e-aca5-478f-93aa-448d2491cfb1
 	- Child Processes
 		- States
