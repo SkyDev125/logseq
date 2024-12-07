@@ -2,6 +2,7 @@
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
 	- Pseudo-Concurrency
+		- defpparent multitasking through rapid switching
 		- The operating system can only have as many Threads as there are cpu cores* running simultaneously.
 			- * Certain CPU's while only having an X number of cores, can actually have an Y number of Virtual Cores (CPU Threads). so for example if a cpu has 8 cores and 16 threads, in reality the OS will consider the 16 as the total number of cores.
 		- This means, that even if we create thousands of processes, the Operating System can still allow them to work, by scheduling them to operate at different time intervals (switching between processes/threads very quickly), based on their priority and user needs. (e.g. the window on the foreground is more important than one in the background)
