@@ -22,13 +22,14 @@
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
-			-
 		- Reserved
 			- Process 0
 				- Memory Management
 			- Process 1
 				- System Initialization
-				- Adopts children
+				- Adopts all Child Processes that lost their Parent.
+		- Programming
+			- Start a new
 	- Child Processes
 		- States
 			- Zombie
