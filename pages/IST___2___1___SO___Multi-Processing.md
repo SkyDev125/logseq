@@ -1,8 +1,6 @@
 - References
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
-	- Definition
-		- Operating System Abstraction that allows for the execution of programs.
 	- Pseudo-Concurrency
 		- Definition
 			- Apparent multitasking through rapid switching
@@ -12,6 +10,11 @@
 			- This means, that even if we create thousands of processes, the Operating System can still allow them to work, by scheduling them to operate at different time intervals (switching between processes/threads very quickly), based on their priority and user needs. 
 			  id:: 6754cb9e-aca5-478f-93aa-448d2491cfb1
 			- (e.g. the window on the foreground is more important than one in the background).
+	- Process
+		- Definition
+			- Operating System Abstraction that allows for the execution of programs.
+		- Properties
+			- Virtual memory
 	- Child Processes
 		- States
 			- Zombie
