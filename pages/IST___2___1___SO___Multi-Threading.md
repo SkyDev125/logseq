@@ -2,7 +2,8 @@
 	- Child Processes
 		- When created:
 			- The operating system guarantees that the child can access an exact copy (snapshot) of memory of the Parent Process
-			-
+		- After exiting
+			- The child will be in a "Zombie" state, where it will keep its information waiting for the parent to
 - Threads
 	- Min 1 per process
 	- Share memory with process
