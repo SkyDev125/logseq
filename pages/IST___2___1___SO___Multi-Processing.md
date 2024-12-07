@@ -16,6 +16,8 @@
 		- Properties
 			- Similar to a Virtual Machine
 			- Virtual Memory space
+			- CPU User Mode
+			- Stores all the memory needed to continue the execution of a certain program.
 			-
 	- Child Processes
 		- States
