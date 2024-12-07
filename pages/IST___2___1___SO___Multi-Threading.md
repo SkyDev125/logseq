@@ -1,2 +1,6 @@
 - Processes
-	-
+	- Child Processes
+		- When
+- Threads
+	- Min 1 per process
+	- Share memory with process
