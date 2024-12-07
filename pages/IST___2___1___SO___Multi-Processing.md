@@ -1,7 +1,10 @@
-- Child Processes
-	- States
-		- Zombie
-	- When created:
-		- The operating system guarantees that the child can access an exact copy (snapshot) of memory of the Parent Process
-	- After exiting
-		- The child will be in a "Zombie" state, where it will keep its information waiting for the parent to retrieve it, or dismiss it.
+- References
+	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
+- Notes
+	- Child Processes
+		- States
+			- Zombie
+		- When created:
+			- The operating system guarantees that the child can access an exact copy (snapshot) of memory of the Parent Process
+		- After exiting
+			- The child will be in a "Zombie" state, where it will keep its information waiting for the parent to retrieve it, or dismiss it.
