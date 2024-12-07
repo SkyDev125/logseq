@@ -34,9 +34,10 @@
 				  #include <sys/types.h>
 				  #include <unistd.h>
 				  
-				  pid_t fork(void);
+				  pid_t fork(void); // Returns 0 to child, Child PID to Parent, -1 on ERR.
 				  ```
-				-
+				- Continues the execution of the program from the exact point where fork is called.
+			-
 	- Child Processes
 		- States
 			- Zombie
