@@ -17,15 +17,17 @@
 			- Similar to a Virtual Machine
 			- Virtual Memory space
 			- CPU User Mode
-			- There's always a Parent Process except for the
+			- There's always a Parent Process except for the Process 1
 			- Stores all the memory needed to continue the execution of a certain program.
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
 			-
 		- Reserved
-			- Process 0 - Memory Management
-			- Process 1 - System Initialization
+			- Process 0
+				- Memory Management
+			- Process 1
+				- System Initialization
 	- Child Processes
 		- States
 			- Zombie
