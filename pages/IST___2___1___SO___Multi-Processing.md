@@ -3,7 +3,7 @@
 - Notes
 	- Pseudo-Concurrency
 		- The operating system can only have as many Threads as there are cpu cores* runing simultaneously.
-			- * Certain CPU's while only having an X number of cores, can actually have an Y number of Virtual Cores. so for example if a cpu has 8 cores
+			- * Certain CPU's while only having an X number of cores, can actually have an Y number of Virtual Cores (CPU Threads). so for example if a cpu has 8 cores and 16 threads, in reality the OS will consider the 16 as the total number of cores.
 		- Which means, that even if we create thousands of processes, the Operating System can still allow them to work, by scheduling them to operate at different time intervals, based on their priority and user needs. (e.g the window on the foreground is more important than one in the background.
 		  id:: 6754cb9e-aca5-478f-93aa-448d2491cfb1
 	- Child Processes
