@@ -3,8 +3,9 @@
 - Notes
 	- Mutex
 		- Definition
-			- Protege informação da memoria de outros threads enquanto um thread
+			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
+			- CX
 		- Programming
 	- Read Write Lock
 		- Definition
