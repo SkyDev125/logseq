@@ -22,7 +22,8 @@
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
-			- After exiting, becomes a Zombie Process, waiting for
+			- After exiting, becomes a Zombie Process, Storing the status information for the Parent to retrieve.
+			- Only is fully deleted once Wait() is called for it by the parent.
 		- Reserved
 			- Process 0
 				- Memory Management
