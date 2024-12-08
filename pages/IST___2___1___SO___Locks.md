@@ -60,10 +60,12 @@
 				  ```
 			- Unlock
 				- ```cpp
-				  
+				  #include <pthread.h>
 				  
 				  pthread_rwlock_unlock(&rwl);
 				  ```
+				- When read locks occur, it keeps an internal counter, to then unlock until it reaches 0 again, finally letting writes occur.
+				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 	- Semaphores
 		- Definition
 		- Properties
