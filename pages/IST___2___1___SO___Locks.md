@@ -77,7 +77,14 @@
 			- Can be decremented
 			- Locks when == 0
 		- Programming
-			-
+			- Initialize
+			- Increment & Wait
+				- ```cpp
+				  #include <semaphore.h>
+				  - int sem_wait(sem_t *sem); // Decre
+				  ```
+				-
+			- Decrement
 	- Deadlocks
 	  collapsed:: true
 		- Definition
