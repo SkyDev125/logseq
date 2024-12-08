@@ -81,7 +81,7 @@
 				- ```cpp
 				  sem_t sem;
 				  
-				  sem_init(&sem, 0, 1); // Initialize semaphore with value 1
+				  sem_init(&sem, 0, 5); // Initialize semaphore with value 5
 				  ```
 			- Decrement & Wait
 				- ```cpp
@@ -89,6 +89,7 @@
 				  
 				  int sem_wait(sem_t *sem); // Decrement sem by 1
 				  ```
+				- Allows you to keep decrementing until reaching 0 where it then blocks all calls until it can be decremented again.
 			- Increment
 				- ```cpp
 				  #include <semaphore.h>
