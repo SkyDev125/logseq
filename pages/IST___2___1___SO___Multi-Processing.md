@@ -23,6 +23,7 @@
 		- Operation
 			- Can create new Threads and Child Processes
 			- The operating system guarantee's an exact copy/snapshot of the memory of the parent when the process is created.
+				- This usually means that whenever a certain variable gets changed, either by the parent or the child, the variable is duplicated on-time.
 		- States
 			- Zombie
 				- Occurs when the Process exits, making it no longer active, but still occupying a tiny portion of the memory with it's return status and PID for the parent to retrieve with wait().
@@ -33,6 +34,7 @@
 				- System Initialization
 				- Adopts all Child Processes that lost their Parent.
 		- Programming
+		  collapsed:: true
 			- Create new Child Process
 				- ```cpp
 				  #include <sys/types.h>
@@ -65,6 +67,6 @@
 				  int execl(const char *pathname, const char *arg, ...
 				                         /* (char  *) NULL */)
 				  ```
-				- Allows for the execution of a completely different binary. With a new memory
+				- Allows for the execution of a completely different binary. With a new memory space.
 -
 -
