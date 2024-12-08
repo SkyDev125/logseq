@@ -85,5 +85,10 @@
 				                            void *(*start_routine) (void *), void *arg);
 				  ```
 				- The new thread will execute the function provided with the arguments provided. until it either gets killed, or returns.
-			- E
+			- Close a Thread
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  void pthread_exit(void *retval); # retval is the value of return by the thread,
+				  ```
 			-
