@@ -43,7 +43,7 @@
 				  
 				  void exit(int status);
 				  ```
-				- Finishes the process's Execution and returns a status to the parent
+				- Finishes the process's Execution of the Calling process and returns a status to the parent (negative values usually mean an error occured).
 			-
 	- Child Processes
 	  collapsed:: true
