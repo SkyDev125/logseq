@@ -2,6 +2,7 @@
 	- ![Mem-Partilhada I 2024-25-lock-rwl-noimpl (1).pdf](../assets/Mem-Partilhada_I_2024-25-lock-rwl-noimpl_(1)_1733670341075_0.pdf)
 - Notes
 	- Mutex
+	  collapsed:: true
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
@@ -31,6 +32,7 @@
 				  ```
 				- Unlocks Allowing the other threads to lock it again and process.
 	- Read Write Lock
+	  collapsed:: true
 		- Definition
 			- Abstraction of Mutexes that allows for the protection of specific read only or write only operations.
 		- Properties
@@ -68,7 +70,11 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
+	  collapsed:: true
 		- Definition
 		- Properties
 		- Programming
+	- Deadlocks
+		- Definition
+			-
 	-
