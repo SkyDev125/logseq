@@ -41,8 +41,9 @@
 				- ```cpp
 				  #include <stdlib.h>
 				  
-				  void exit(int status); // Status allows the parent to know how the Process finished.
+				  void exit(int status);
 				  ```
+				- Finishes the process's Execution and returns a status to the parent
 			-
 	- Child Processes
 	  collapsed:: true
