@@ -22,8 +22,14 @@
 				  
 				  int pthread_mutex_lock(pthread_mutex_t *mutex);
 				  ```
-				- Locks a mutex making all other threads stop and wait until it is unlocked by another thread.
+				- Locks making all other threads waiting for this lock, stop and wait for until it is unlocked.
 			- Unlock
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_mutex_unlock(pthread_mutex_t *mutex);
+				  ```
+				- Unlocks Allowing the other threads to lock it again and process.
 	- Read Write Lock
 		- Definition
 			- Abstraction of Mutexes that allows for the protection of specific read only or write only operations.
