@@ -49,9 +49,10 @@
 				  #include <sys/types.h>
 				  #include <sys/wait.h>
 				  
-				  pid_t wait(int *wstatus);
-				   pid_t waitpid(pid_t pid, int *wstatus, int options);
+				  pid_t wait(int *wstatus); # wstatus is the return value of the child
+				  pid_t waitpid(pid_t pid, int *wstatus, int options);
 				  ```
+				- Pauses the current Thread until a child finishes.  for a specific child
 			-
 	- Child Processes
 	  collapsed:: true
