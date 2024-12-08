@@ -41,7 +41,7 @@
 				- ```cpp
 				  #include <stdlib.h>
 				  
-				  void exit(int status);
+				  void exit(int status); # Same as return value on int main()
 				  ```
 				- Finishes the process's Execution of the Calling process and returns a status to the parent (negative values usually mean an error occured).
 			-
