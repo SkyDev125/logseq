@@ -7,11 +7,14 @@
 		- Properties
 			- Can be locked or Unlocked
 			- Once closed, the other threads need to wait for it to unlock.
-			- Only
+			- Only to be used in extremely necessary situations as it can affect performance greatly.
 		- Programming
-			-
+			- Initialize
+			- Lock
+			- Unlock
 	- Read Write Lock
 		- Definition
+			-
 		- Properties
 		- Programming
 	- Semaphores
