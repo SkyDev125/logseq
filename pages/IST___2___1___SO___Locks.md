@@ -70,6 +70,7 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
+	  collapsed:: true
 		- Definition
 			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
@@ -85,7 +86,7 @@
 				  ```
 				- Can be accessed by all threads of the same process if pshared == 0
 				- Any thread of any process can access it if pshared != 0
-				-
+				- Value defines the starting value of the counter.
 			- Decrement & Wait
 				- ```cpp
 				  #include <semaphore.h>
