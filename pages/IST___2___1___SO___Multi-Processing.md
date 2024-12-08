@@ -74,4 +74,6 @@
 			- A worker to execute some specific job
 		- Properties
 			- Many threads can exist per process
+			- All threads share the memory with other threads
+			- Each thread has its own stack
 			-
