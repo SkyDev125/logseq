@@ -60,7 +60,7 @@
 				  ```
 				- Pauses the current Thread until a child finishes.
 				- Returns Instantly if child already finished.
-			- Exec
+			- Execute a different program
 				- ```cpp
 				  #include <unistd.h>
 				  
@@ -69,4 +69,6 @@
 				  ```
 				- Allows for the execution of a completely different binary. With a new memory space.
 				- Changes the UID/GUID to the owner of the file
-	-
+	- Thread
+		- Definition
+			-
