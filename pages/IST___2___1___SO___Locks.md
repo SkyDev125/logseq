@@ -50,10 +50,20 @@
 				- ```cpp
 				  #include <pthread.h>
 				  
-				  pthread_rwlock_wrlock(&rwl); //Activates the write lock
+				  pthread_rwlock_rdlock(&rwl); //Activates the read lock
 				  ```
 			- Write Lock
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_rwlock_wrlock(&rwl); //Activates the write lock
+				  ```
 			- Unlock
+				- ```cpp
+				  
+				  
+				  pthread_rwlock_unlock(&rwl);
+				  ```
 	- Semaphores
 		- Definition
 		- Properties
