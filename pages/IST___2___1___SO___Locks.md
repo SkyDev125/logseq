@@ -78,6 +78,8 @@
 			- Locks when == 0
 		- Programming
 			- Initialize
+				- ```cpp
+				  ```
 			- Decrement & Wait
 				- ```cpp
 				  #include <semaphore.h>
