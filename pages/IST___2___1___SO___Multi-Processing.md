@@ -71,4 +71,7 @@
 				- Changes the UID/GUID to the owner of the file
 	- Thread
 		- Definition
+			- A worker to execute some specific job
+		- Properties
+			- Many threads can exist per process
 			-
