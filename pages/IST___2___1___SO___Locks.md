@@ -70,8 +70,8 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
-	  collapsed:: true
 		- Definition
+			- Allows for an ordered
 		- Properties
 		- Programming
 	- Deadlocks
