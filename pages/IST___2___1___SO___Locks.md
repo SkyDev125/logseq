@@ -45,8 +45,13 @@
 				  
 				  pthread_rwlock_t rwl = PTHREAD_RWLOCK_INITIALIZER;
 				  ```
-				-
+				- Initializes the read write lock to be used
 			- Read Lock
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_rwlock_wrlock(&rwl); //Activates the write lock
+				  ```
 			- Write Lock
 			- Unlock
 	- Semaphores
