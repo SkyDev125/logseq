@@ -24,7 +24,6 @@
 			- Can create new Threads and Child Processes
 			- Exact copy of Parent's memory (Ensured by the Operating System).
 				- Usually means that whenever a certain variable gets changed, either by the parent or the child, the variable is duplicated on-time. Instead of the entire memory being copied which could be very resource intensive.
-		- States
 			- Zombie
 				- Occurs when the Process exits, making it no longer active, but still occupying a tiny portion of the memory with it's return status and PID for the parent to retrieve with wait().
 		- Reserved
