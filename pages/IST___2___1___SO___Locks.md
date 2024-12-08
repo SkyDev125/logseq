@@ -18,8 +18,13 @@
 		- Properties
 			- Write locks will block anything from writing or reading
 			- Read locks will only block writing.
-			- Write
+			- Writers will wait for all reads to end.
+			- Allows for a more optimized management of memory.
 		- Programming
+			- Initialize
+			- Read Lock
+			- Write Lock
+			- Unlock
 	- Semaphores
 		- Definition
 		- Properties
