@@ -91,4 +91,5 @@
 				  
 				  void pthread_exit(void *retval); # retval is the value of return by the thread,
 				  ```
+				- Kills the thread with exit
 			-
