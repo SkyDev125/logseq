@@ -76,7 +76,7 @@
 			- Many threads can exist per process
 			- All threads share the memory with other threads
 			- Each thread has its own stack
-			- Resources dont get released until
+			- Resources don't get released until it some other threads runs pthread_join() for it.
 		- Programming
 			- Create a new Thread
 				- ```cpp
