@@ -39,7 +39,9 @@
 				- Continues the execution of the program from the exact point where fork is called.
 			- Close the process
 				- ```cpp
-				   #include <unistd.h>
+				  #include <stdlib.h>
+				  
+				  void exit(int status);
 				  ```
 			-
 	- Child Processes
