@@ -79,6 +79,9 @@
 		- Programming
 			- Initialize
 				- ```cpp
+				  sem_t sem;
+				  
+				  sem_init(&sem, 0, 1); // Initialize semaphore with value 1
 				  ```
 			- Decrement & Wait
 				- ```cpp
