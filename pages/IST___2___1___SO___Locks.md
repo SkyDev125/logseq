@@ -15,8 +15,14 @@
 				  
 				  pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 				  ```
-				- Initializes the mutex
+				- Initializes the mutex ready to be locked or unlocked.
 			- Lock
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_mutex_lock(pthread_mutex_t *mutex);
+				  ```
+				- Locks a mutex making all other threads stop and wait until it is unlocked by another thread.
 			- Unlock
 	- Read Write Lock
 		- Definition
