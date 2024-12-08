@@ -16,7 +16,7 @@
 		- Definition
 			- Abstraction of Mutexes that allows for the protection of specific read only or write only operations.
 		- Properties
-			- Locking with read
+			- C
 		- Programming
 	- Semaphores
 		- Definition
