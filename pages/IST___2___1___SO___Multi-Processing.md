@@ -61,6 +61,10 @@
 			- Exec
 				- ```cpp
 				  #include <unistd.h>
+				  
+				  int execl(const char *pathname, const char *arg, ...
+				                         /* (char  *) NULL */)
 				  ```
+				- Allows for the execution of a completely different binary. With a new memory
 -
 -
