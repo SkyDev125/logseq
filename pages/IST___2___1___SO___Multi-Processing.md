@@ -84,4 +84,6 @@
 				  int pthread_create(pthread_t *thread, const pthread_attr_t *attr,
 				                            void *(*start_routine) (void *), void *arg);
 				  ```
+				- The new thread will execute the function provided with the arguments provided. until it either gets killed, or returns.
+			- E
 			-
