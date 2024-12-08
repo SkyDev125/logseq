@@ -41,7 +41,7 @@
 				- ```cpp
 				  #include <stdlib.h>
 				  
-				  void exit(int status);
+				  void exit(int status); // Status allows to send
 				  ```
 			-
 	- Child Processes
