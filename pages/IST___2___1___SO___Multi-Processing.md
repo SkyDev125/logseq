@@ -58,4 +58,6 @@
 				  ```
 				- Pauses the current Thread until a child finishes.
 				- Returns Instantly if child already finished.
+			- Exec
+				-
 -
