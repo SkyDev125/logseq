@@ -40,6 +40,12 @@
 			- Allows for a more optimized management of memory.
 		- Programming
 			- Initialize
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_rwlock_t rwl = PTHREAD_RWLOCK_INITIALIZER;
+				  ```
+				-
 			- Read Lock
 			- Write Lock
 			- Unlock
