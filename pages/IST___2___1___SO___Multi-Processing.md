@@ -22,6 +22,7 @@
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
+			- The operating system guarantee's an exact copy/snapshot of the memory of the parent
 			- After exiting, becomes a Zombie Process, Storing the status information for the Parent to retrieve.
 			- Only is fully deleted once Wait() is called for it by the parent.
 		- Reserved
