@@ -4,4 +4,13 @@
 	- Mutex
 		- Definition
 		- Properties
-		-
+		- Programming
+	- Read Write Lock
+		- Definition
+		- Properties
+		- Programming
+	- Semaphores
+		- Definition
+		- Properties
+		- Programming
+	-
