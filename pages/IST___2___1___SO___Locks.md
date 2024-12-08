@@ -71,8 +71,9 @@
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
 		- Definition
-			- Allows for an ordered queue of processes to be locked and unlocked by FIFO order.
+			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
+			-
 		- Programming
 	- Deadlocks
 	  collapsed:: true
