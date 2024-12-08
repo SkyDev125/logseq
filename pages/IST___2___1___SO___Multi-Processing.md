@@ -2,6 +2,7 @@
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
 	- Pseudo-Concurrency
+	  collapsed:: true
 		- Definition
 			- Apparent multitasking through rapid switching
 		- Operation
@@ -68,5 +69,4 @@
 				  ```
 				- Allows for the execution of a completely different binary. With a new memory space.
 				- Changes the UID/GUID to the owner of the file
--
--
+	-
