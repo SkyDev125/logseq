@@ -78,13 +78,18 @@
 			- Locks when == 0
 		- Programming
 			- Initialize
-			- Increment & Wait
+			- Decrement & Wait
 				- ```cpp
 				  #include <semaphore.h>
-				  - int sem_wait(sem_t *sem); // Decre
+				  
+				  int sem_wait(sem_t *sem); // Decrement sem by 1
 				  ```
-				-
-			- Decrement
+			- Increment
+				- ```cpp
+				  #include <semaphore.h>
+				  
+				  int sem_post(sem_t *sem); // Increment sem by 1
+				  ```
 	- Deadlocks
 	  collapsed:: true
 		- Definition
