@@ -81,8 +81,9 @@
 				- ```cpp
 				  sem_t sem;
 				  
-				  sem_init(&sem, 0, 5); // Initialize semaphore with value 5
+				  int sem_init(sem_t *sem, int pshared, unsigned value);
 				  ```
+				- Can be accessed by all threads
 			- Decrement & Wait
 				- ```cpp
 				  #include <semaphore.h>
