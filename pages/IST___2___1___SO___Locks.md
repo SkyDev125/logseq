@@ -83,7 +83,8 @@
 				  
 				  int sem_init(sem_t *sem, int pshared, unsigned value);
 				  ```
-				- Can be accessed by all threads
+				- Can be accessed by all threads if pshared == 0
+				-
 			- Decrement & Wait
 				- ```cpp
 				  #include <semaphore.h>
