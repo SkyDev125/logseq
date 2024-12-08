@@ -41,7 +41,7 @@
 				- ```cpp
 				  #include <stdlib.h>
 				  
-				  void exit(int status); # Same as return value on int main()
+				  void exit(int status); # Same as return value on int main().
 				  ```
 				- Finishes the process's Execution of the Calling process and returns a status to the parent (negative values usually mean an error occurred).
 			- Wait for a child
@@ -49,10 +49,11 @@
 				  #include <sys/types.h>
 				  #include <sys/wait.h>
 				  
-				  pid_t wait(int *wstatus); # wstatus is the return value of the child
-				  pid_t waitpid(pid_t pid, int *wstatus, int options);
+				  pid_t wait(int *wstatus); # wstatus is the return value of the child.
+				  pid_t waitpid(pid_t pid, int *wstatus, int options); # Specific child.
 				  ```
-				- Pauses the current Thread until a child finishes.  for a specific child
+				- Pauses the current Thread until a child finishes.
+				- Returns Instantly if child already finished.
 			-
 	- Child Processes
 	  collapsed:: true
