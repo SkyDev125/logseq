@@ -98,7 +98,9 @@
 				  
 				  int pthread_join(pthread_t thread, void **retval);
 				  ```
-				- wit
+				- Returns instantly if the thread already finished
+				- retval is used to receive the return information of the ending thread.
+			-
 				-
 			-
 -
