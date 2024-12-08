@@ -12,6 +12,7 @@
 			  id:: 6754cb9e-aca5-478f-93aa-448d2491cfb1
 			- (e.g. the window on the foreground is more important than one in the background).
 	- Process
+	  collapsed:: true
 		- Definition
 			- Operating System Abstraction that allows for the execution of programs.
 		- Properties
