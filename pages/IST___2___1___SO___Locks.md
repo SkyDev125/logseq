@@ -100,6 +100,9 @@
 				  
 				  int sem_post(sem_t *sem); // Increment sem by 1
 				  ```
+	- Condition Variables
+		- Definition
+			-
 	- Deadlocks
 	  collapsed:: true
 		- Definition
