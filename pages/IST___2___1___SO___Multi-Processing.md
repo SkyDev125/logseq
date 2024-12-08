@@ -22,9 +22,11 @@
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
-			- The operating system guarantee's an exact copy/snapshot of the memory of the parent
+			- The operating system guarantee's an exact copy/snapshot of the memory of the parent when the process is created.
 			- After exiting, becomes a Zombie Process, Storing the status information for the Parent to retrieve.
 			- Only is fully deleted once Wait() is called for it by the parent.
+		- States
+			-
 		- Reserved
 			- Process 0
 				- Memory Management
@@ -57,13 +59,4 @@
 				  ```
 				- Pauses the current Thread until a child finishes.
 				- Returns Instantly if child already finished.
-			-
-	- Child Processes
-	  collapsed:: true
-		- States
-			- Zombie
-		- When created:
-			- The operating system guarantees that the child can access an exact copy (snapshot) of memory of the Parent Process
-		- After exiting
-			- The child will be in a "Zombie" state, where it will keep its information waiting for the parent to retrieve it, or dismiss it.
 -
