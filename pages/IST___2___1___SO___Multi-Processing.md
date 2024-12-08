@@ -22,6 +22,7 @@
 			- Other info is stored... (e.g. Parent process, priority, etc..)
 		- Operation
 			- Can create new Threads and Child Processes
+			- After exiting, becomes a Zombie Process, waiting for
 		- Reserved
 			- Process 0
 				- Memory Management
