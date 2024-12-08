@@ -73,8 +73,11 @@
 		- Definition
 			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
-			-
+			- Can be incremented
+			- Can be decremented
+			- Locks when == 0
 		- Programming
+			-
 	- Deadlocks
 	  collapsed:: true
 		- Definition
