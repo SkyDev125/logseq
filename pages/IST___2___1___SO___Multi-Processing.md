@@ -45,7 +45,13 @@
 				  ```
 				- Finishes the process's Execution of the Calling process and returns a status to the parent (negative values usually mean an error occurred).
 			- Wait for a child
-				-
+				- ```cpp
+				  #include <sys/types.h>
+				  #include <sys/wait.h>
+				  
+				  pid_t wait(int *wstatus);
+				   pid_t waitpid(pid_t pid, int *wstatus, int options);
+				  ```
 			-
 	- Child Processes
 	  collapsed:: true
