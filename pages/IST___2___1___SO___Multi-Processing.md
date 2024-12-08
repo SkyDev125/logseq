@@ -75,4 +75,8 @@
 			- Many threads can exist per process
 			- All threads share the memory with other threads
 			- Each thread has its own stack
+		- Programming
+			- Create a new Thread
+				- ```cpp
+				  ```
 			-
