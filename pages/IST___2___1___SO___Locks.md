@@ -101,7 +101,6 @@
 				  int sem_post(sem_t *sem); // Increment sem by 1
 				  ```
 	- Deadlocks
-	  collapsed:: true
 		- Definition
 			- Two threads or more get locked indefinitely with no way to free themselves.
 		- Handling
