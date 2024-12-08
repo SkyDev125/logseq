@@ -23,10 +23,9 @@
 		- Operation
 			- Can create new Threads and Child Processes
 			- The operating system guarantee's an exact copy/snapshot of the memory of the parent when the process is created.
-			- After exiting, becomes a Zombie Process, Storing the status information for the Parent to retrieve.
-			- Only is fully deleted once Wait() is called for it by the parent.
 		- States
-			-
+			- Zombie
+				- Occurs when the Process exits, making it no longer active, but still occupying a tiny portion of the memory with it's return status and PID for the parent to retrieve with wait().
 		- Reserved
 			- Process 0
 				- Memory Management
