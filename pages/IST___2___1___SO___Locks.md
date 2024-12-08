@@ -5,8 +5,11 @@
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
-			- CX
+			- Can be locked or Unlocked
+			- Once closed, the other threads need to wait for it to unlock.
+			- Only
 		- Programming
+			-
 	- Read Write Lock
 		- Definition
 		- Properties
