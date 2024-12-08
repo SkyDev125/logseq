@@ -66,6 +66,7 @@
 				  ```
 				- When read locks occur, it keeps an internal counter, to then unlock until it reaches 0 again, finally letting writes occur.
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
+				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
 		- Definition
 		- Properties
