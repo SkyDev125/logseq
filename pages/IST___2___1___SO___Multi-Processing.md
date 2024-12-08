@@ -70,7 +70,6 @@
 				- Allows for the execution of a completely different binary. With a new memory space.
 				- Changes the UID/GUID to the owner of the file
 	- Thread
-	  collapsed:: true
 		- Definition
 			- A worker to execute some specific job
 		- Properties
