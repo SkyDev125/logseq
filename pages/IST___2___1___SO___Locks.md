@@ -75,11 +75,12 @@
 		- Properties
 		- Programming
 	- Deadlocks
+	  collapsed:: true
 		- Definition
 			- Two threads or more get locked indefinitely with no way to free themselves.
 		- Handling
 			- When locking things, always make sure that the logic will allow for a thread to always free itself and not be stuck forever.
 			- Use of try_lock()
 			- Force a specific condition to fix Cyclical deadlocks
-			-
+			- Free the locks for the operation if one of them fails. To allow others to finish their job and then try again
 	-
