@@ -83,7 +83,8 @@
 				  
 				  int sem_init(sem_t *sem, int pshared, unsigned value);
 				  ```
-				- Can be accessed by all threads if pshared == 0
+				- Can be accessed by all threads of the same process if pshared == 0
+				- Any thread of any process can access it if pshared != 0
 				-
 			- Decrement & Wait
 				- ```cpp
