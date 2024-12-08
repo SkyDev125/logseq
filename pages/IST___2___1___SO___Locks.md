@@ -76,5 +76,7 @@
 		- Programming
 	- Deadlocks
 		- Definition
-			-
+			- Two threads or more get locked indefinitely with no way to free themselves.
+		- Handling
+			- When locking things, always make sure that the logic of the program is made so the possibility of deadlock
 	-
