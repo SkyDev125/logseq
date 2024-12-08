@@ -33,7 +33,6 @@
 				- System Initialization
 				- Adopts all Child Processes that lost their Parent.
 		- Programming
-		  collapsed:: true
 			- Create new Child Process
 				- ```cpp
 				  #include <sys/types.h>
@@ -67,5 +66,6 @@
 				                         /* (char  *) NULL */)
 				  ```
 				- Allows for the execution of a completely different binary. With a new memory space.
+				- Changes
 -
 -
