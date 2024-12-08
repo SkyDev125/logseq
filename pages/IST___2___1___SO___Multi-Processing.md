@@ -91,5 +91,13 @@
 				  
 				  void pthread_exit(void *retval); # retval is the value of return by the thread,
 				  ```
-				- Kills the thread that called it, using retval as a way to save a value to then be recovered by
+				- Kills the thread that called it, using retval as a way to save a value to then be recovered by some other thread calling pthread_join().
+			- Wait for a Thread
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_join(pthread_t thread, void **retval);
+				  ```
+				-
 			-
+-
