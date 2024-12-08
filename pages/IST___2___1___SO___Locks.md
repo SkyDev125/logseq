@@ -78,5 +78,8 @@
 		- Definition
 			- Two threads or more get locked indefinitely with no way to free themselves.
 		- Handling
-			- When locking things, always make sure that the logic of the program is made so the possibility of deadlock
+			- When locking things, always make sure that the logic will allow for a thread to always free itself and not be stuck forever.
+			- Use of try_lock()
+			- Force a specific condition to fix Cyclical deadlocks
+			-
 	-
