@@ -71,7 +71,7 @@
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
 		- Definition
-			- Allows for an ordered
+			- Allows for an ordered queue of processes to be locked and unlocked by FIFO order.
 		- Properties
 		- Programming
 	- Deadlocks
