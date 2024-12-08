@@ -10,7 +10,12 @@
 			- Only to be used in extremely necessary situations as it can affect performance greatly.
 		- Programming
 			- Initialize
-				-
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+				  ```
+				- Initializes the mutex
 			- Lock
 			- Unlock
 	- Read Write Lock
