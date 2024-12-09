@@ -70,6 +70,7 @@
 				- Allows for the execution of a completely different binary. With a new memory space.
 				- Changes the UID/GUID to the owner of the file
 	- Thread
+	  collapsed:: true
 		- Definition
 			- A worker to execute some specific job
 		- Properties
@@ -78,6 +79,7 @@
 			- Each thread has its own stack
 			- Resources don't get released until it some other threads runs pthread_join() for it.
 		- Programming
+		  collapsed:: true
 			- Create a new Thread
 				- ```cpp
 				  #include <pthread.h>
