@@ -29,7 +29,8 @@
 			- Priority Queue
 		- Transfer of control
 			- Interruption Treatment
-				- Changes stack pointer to
+				- Changes stack pointer to kernel's stack
+				-
 	- Process
 		- Hardware
 			- Processor Registries
