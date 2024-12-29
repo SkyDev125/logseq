@@ -46,3 +46,9 @@
 			- Can't receive new signals while treating signals.
 			- While treating the signal, only specific functions can be used. Called "async-signal-safe".
 		- Programming
+			- ```cpp
+			  #include <signal.h>
+			  
+			  int sigaction(int signum, const struct sigaction *act,
+			                struct sigaction *oldact)
+			  ```
