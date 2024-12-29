@@ -27,7 +27,7 @@
 			- Good
 				- Deadlines
 				- Predictable performance and workloads.
-	- Process Struct
+	- Process Struct (Unix)
 	  collapsed:: true
 		- Info
 			- Information for scheduling and signals.
@@ -40,7 +40,8 @@
 			- Time in CPU
 			- Process ID
 			- Parent Process ID
-	- User Struct
+	- User Struct (Unix)
+	  collapsed:: true
 		- Info
 			- Only needed while process is in Execution
 			- Can be stored to disk in the meantime.
