@@ -1,7 +1,5 @@
-- test
-  template:: test1
+- Summary
+  template:: Summary
   template-including-parent:: false
 	- References
 	- Notes
-- /
-- Notes
