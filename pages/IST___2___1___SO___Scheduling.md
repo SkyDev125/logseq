@@ -4,6 +4,10 @@
 - Notes
 	- Scheduling Policies
 		- Interactive Users in Shared time (Most Common)
+			- Properties
+				- Time slices
+				- Priorities
+				- Dynamic
 			- Good
 			  collapsed:: true
 				- Response Time based on user interaction.
