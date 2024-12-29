@@ -27,6 +27,12 @@
 			- Works very similarly to a normal pipe. But has a name in the filesystem.
 		- Programming
 			- Initialize
+				- ```cpp
+				  #include <sys/types.h>
+				  #include <sys/stat.h>
+				  
+				  
+				  ```
 			- Open
 			- Unlink
 	- Signals
