@@ -110,7 +110,8 @@
 			- Can be waited for a signal or a broadcast.
 			- Signal unlocks one of the waits.
 			- Broadcast unlocks all waits.
-		-
+		- Programming
+			-
 	- Deadlocks
 	  collapsed:: true
 		- Definition
