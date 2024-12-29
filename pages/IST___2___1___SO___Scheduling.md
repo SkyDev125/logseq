@@ -10,6 +10,7 @@
 				- Dynamic Priorities
 					- Allows to allocate different time slices for each process. based on how important it is. (more important get smaller slices of time as they need to be more responsive.)
 					- FIFO per Min priority queue. (0 - High priority, N - Low priority).
+					- Negative values are special, when processes got blocked in the kernel level. need to be
 				- Preemption
 					- Switches to a Higher priority process  when it appears to make sure it's response time is reduced.
 			- Good
