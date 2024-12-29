@@ -6,8 +6,10 @@
 		- Interactive Users in Shared time (Most Common)
 			- Properties
 				- Time slices
+					- Defines a max time for each process,
 				- Priorities
-				- Dynamic
+				- Dynamic Priorities
+				- Estimation
 			- Good
 			  collapsed:: true
 				- Response Time based on user interaction.
