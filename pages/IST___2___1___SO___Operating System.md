@@ -17,4 +17,8 @@
 		- Bootloader
 			- Loads the kernel in the Disk to the memory, and starts it.
 		- Kernel Initialization
+			- Starts base data structures
+			- Copies Memory treating routines
+			- Fills Interrupts
+			- Starts other processes. Like login.
 		-
