@@ -25,4 +25,6 @@
 			- Starts other processes. Like login.
 		-
 	- Process Manager
+		- Scheduling
+		- Transfer of control
 		-
