@@ -3,8 +3,11 @@
 - Notes
 	- Pipes
 		- Definition
-			- A FIFO (First in first out)
+			- A FIFO (First in first out) of bytes that is connected between 2 processes.
 		- Properties
+			- The pipe descriptors (file descriptors) are internal to a process
+			- Can be transmitted to the child processes.
+			-
 		- Programming
 	- Named Pipes
 	- Signals
