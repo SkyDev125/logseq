@@ -47,4 +47,8 @@
 		- Properties
 			- Processor Registries
 			- Kernel Stack
-			- UID, g
+			- UID, GID
+			- Current Directory
+			- Open file descriptors
+			- Function Parameters.
+		-
