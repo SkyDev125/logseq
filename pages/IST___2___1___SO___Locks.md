@@ -5,7 +5,6 @@
 	- ![11 - Variaveis de condicao - 2.pdf](../assets/11_-_Variaveis_de_condicao_-_2_1735447573321_0.pdf)
 - Notes
 	- Mutex
-	  collapsed:: true
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
