@@ -27,3 +27,6 @@
 			- Good
 				- Deadlines
 				- Predictable performance and workloads.
+	- Proc Struct
+		- Information for scheduling and signals.
+		-
