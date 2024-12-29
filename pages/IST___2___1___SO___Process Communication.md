@@ -44,5 +44,5 @@
 			- A process can have multiple signals pending, when it wakes up they all get treated in an order defined by the kernel.
 			- If many of the same signal get sent, some signals may be considered as one.. making it unreliable to assume that a process receives exactly all signals.
 			- Can't receive new signals while treating signals.
-			- While treating the signal, only specific functions can be used.
+			- While treating the signal, only specific functions can be used. Called "async-signal-safe"
 		- Programming
