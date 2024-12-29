@@ -46,6 +46,7 @@
 			- Can't receive new signals while treating signals.
 			- While treating the signal, only specific functions can be used. Called "async-signal-safe".
 		- Programming
+		  collapsed:: true
 			- ```cpp
 			  #include <signal.h>
 			  
@@ -58,13 +59,16 @@
 			  // Assign the signal handler function
 			  sa.sa_handler = my_signal_handler;
 			  
-			  // Clear all flags or set new flags and mask
-			  sa.sa_flags = 0;
-			  sigemptyset(&sa.sa_mask);
+			  // define Flags here
+			  sa.sa_flags = SA_RESTART;
 			  
-			  // Set the handler for SIGINT (Ctrl+C)
+			  // Block SIGTERM while handling SIGINT
+			  sigemptyset(&sa.sa_mask);
+			  sigaddset(&sa.sa_mask, SIGTERM);
+			  
+			  // Set the handler for SIGINT
 			  if (sigaction(SIGINT, &sa, NULL) == -1) {
-			    perror("sigaction");
+			    perror("sigaction failed");
 			    return 1;
 			  }
 			  ```
