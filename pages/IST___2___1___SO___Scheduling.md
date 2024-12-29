@@ -28,8 +28,15 @@
 				- Deadlines
 				- Predictable performance and workloads.
 	- Process Struct
-		- Information for scheduling and signals.
-		- Needs to always be in memory.
+		- Info
+			- Information for scheduling and signals.
+			- Needs to always be in memory.
+		- Properties
+			- Status
+			- Priority
+			- Signals sent
+			- Time in memory
+			- Cpu Time
 	- User Struct
 		- Only needed while process is in Execution
 		- Can be stored to disk in the meantime.
