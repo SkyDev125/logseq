@@ -113,9 +113,14 @@
 		- Programming
 			- Wait
 				- ```cpp
+				  #include <pthread.h>
+				  int pthread_cond_wait(pthread_cond_t *restrict cond,
+				             pthread_mutex_t *restrict mutex);
 				  ```
 			- Signal
 				- ```cpp
+				  #include <pthread.h>
+				  
 				  ```
 			- Broadcast
 				- ```cpp
