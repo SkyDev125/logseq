@@ -1,4 +1,6 @@
 - References
 	- ![13 - IPC (1).pdf](../assets/13_-_IPC_(1)_1735449996620_0.pdf)
 - Notes
-	-
+	- Pipes
+	- Named Pipes
+	- Signals
