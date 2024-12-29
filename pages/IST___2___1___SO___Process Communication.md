@@ -19,4 +19,10 @@
 			  ```
 			- In each pair of pipes, one will be for reading the other for writing, it's recommended to always close one of the pipes (on each side of the 2 processes) since there's a limit to how many file descriptors a process can have open.
 	- Named Pipes
+		- Definition
+			- A pipe with a name, allowing for communication for non-affiliated processes.
+		- Properties
+			- Behaves exactly like a normal file.
+			- Can
+		- Programming
 	- Signals
