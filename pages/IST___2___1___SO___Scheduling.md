@@ -27,6 +27,9 @@
 			- Good
 				- Deadlines
 				- Predictable performance and workloads.
-	- Proc Struct
+	- Process Struct
 		- Information for scheduling and signals.
-		-
+		- Needs to always be in memory.
+	- User Struct
+		- Only needed while process is in Execution
+		- Can be stored to disk in the meantime.
