@@ -5,9 +5,10 @@
 		- Definition
 			- A FIFO (First in first out) of bytes that is connected between 2 processes.
 		- Properties
-			- The pipe descriptors (file descriptors) are internal to a process
+			- The pipe descriptors are internal to a process
 			- Can be transmitted to the child processes.
-			-
+			- Can be used just like a normal file descriptor.
+			- Gets blo
 		- Programming
 	- Named Pipes
 	- Signals
