@@ -13,7 +13,8 @@
 	- Boot Cycle
 		- Turn On
 		- Bios
+			- Copies the execution of the bootloader to memory and runs it.
 		- Bootloader
-			-
+			- Loads the kernel in the Disk to the memory, and starts it.
 		- Kernel Initialization
 		-
