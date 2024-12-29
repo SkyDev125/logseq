@@ -1,10 +1,13 @@
-- Summary
-  template:: Summary
+- General Summary
+  template:: General Summary
   template-including-parent:: false
+  collapsed:: true
 	- References
 	- Notes
-- f
+- Function Summary
+  template:: Function Summary
+  template-including-parent:: false
+  collapsed:: true
 	- Definition
 	- Properties
 	- Programming
-		- topic
