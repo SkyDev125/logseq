@@ -10,6 +10,9 @@
 				- High Processor Usage
 		- Interactive Users in Shared time
 			- Good
-				- Response Time
+				- Response Time based on user interaction.
 		- Real Time
+			- Good
+				- Deadlines
+				- Predictable performance and workloads.
 			-
