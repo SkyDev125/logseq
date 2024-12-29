@@ -42,4 +42,5 @@
 			- A message sent directly to a process that triggle a specific handling.
 		- Properties
 			- A process can have multiple signals pending, when it wakes up they all get treated in an order defined by the kernel.
+			- If many of the same signal get sent, only one of them
 		- Programming
