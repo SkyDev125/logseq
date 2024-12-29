@@ -26,6 +26,7 @@
 		-
 	- Process Manager
 		- Scheduling
+			- Priority queue
 		- Transfer of control
 	- Process
 		- Hardware
@@ -34,4 +35,6 @@
 		- Software
 			- IDs
 			- Priority
-			-
+			- Status
+			- Other infos... (open descriptors.. etc)
+	-
