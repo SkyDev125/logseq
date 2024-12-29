@@ -39,5 +39,6 @@
 				- Same function for file Descriptors. Others also apply like write, read, etc.
 	- Signals
 		- Definition
+			- A message sent directly to a process at a higher level.
 		- Properties
 		- Programming
