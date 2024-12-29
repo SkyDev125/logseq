@@ -111,6 +111,10 @@
 			- Signal unlocks one of the waits.
 			- Broadcast unlocks all waits.
 		- Programming
+			- Wait
+				- ```cpp
+				  ```
+			- S
 			-
 	- Deadlocks
 	  collapsed:: true
