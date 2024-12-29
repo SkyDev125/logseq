@@ -38,3 +38,6 @@
 			- Unlink
 				- Same function for file Descriptors. Others also apply like write, read, etc.
 	- Signals
+		- Definition
+		- Properties
+		- Programming
