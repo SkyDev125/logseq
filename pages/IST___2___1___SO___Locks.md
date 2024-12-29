@@ -124,19 +124,23 @@
 				  int pthread_cond_wait(pthread_cond_t *restrict cond,
 				             pthread_mutex_t *restrict mutex);
 				  ```
+				- reaquires the lock atomically, when signaled.
+				- Recommended to check the
 			- Signal
 				- ```cpp
 				  #include <pthread.h>
 				  
 				  int pthread_cond_signal(pthread_cond_t *cond);
 				  ```
-				-
+				- Doesnt do anything if there's nothing waiting.
+				- Unlocks a single wait.
 			- Broadcast
 				- ```cpp
 				  #include <pthread.h>
 				  
 				  int pthread_cond_broadcast(pthread_cond_t *cond);
 				  ```
+				- Unlocks all waits.
 	- Deadlocks
 	  collapsed:: true
 		- Definition
