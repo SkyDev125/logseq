@@ -51,4 +51,20 @@
 			  
 			  int sigaction(int signum, const struct sigaction *act,
 			                struct sigaction *oldact)
+			  
+			  // Example
+			  struct sigaction sa;
+			  
+			  // Assign the signal handler function
+			  sa.sa_handler = my_signal_handler;
+			  
+			  // Clear all flags or set new flags and mask
+			  sa.sa_flags = 0;
+			  sigemptyset(&sa.sa_mask);
+			  
+			  // Set the handler for SIGINT (Ctrl+C)
+			  if (sigaction(SIGINT, &sa, NULL) == -1) {
+			    perror("sigaction");
+			    return 1;
+			  }
 			  ```
