@@ -8,7 +8,7 @@
 			- The pipe descriptors are internal to a process
 			- Can be transmitted to the child processes.
 			- Can be used just like a normal file descriptor.
-			- Gets blo
+			- Waits when writing to a full pipe or reading from an empty pipe.
 		- Programming
 	- Named Pipes
 	- Signals
