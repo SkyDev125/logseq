@@ -27,4 +27,11 @@
 	- Process Manager
 		- Scheduling
 		- Transfer of control
-		-
+	- Process
+		- Hardware
+			- Processor Registries
+			- Memory Registries
+		- Software
+			- IDs
+			- Priority
+			-
