@@ -111,6 +111,13 @@
 			- Signal unlocks one of the waits.
 			- Broadcast unlocks all waits.
 		- Programming
+			- Initialize
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
+				  
+				  ```
 			- Wait
 				- ```cpp
 				  #include <pthread.h>
