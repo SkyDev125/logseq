@@ -13,7 +13,9 @@
 			- ```cpp
 			  #include <unistd.h>
 			  
-			  int pipe(int pipefd[2]);
+			  int pipefd[2];
+			  int pipe(pipefd);
 			  ```
+			- It's recommended to close
 	- Named Pipes
 	- Signals
