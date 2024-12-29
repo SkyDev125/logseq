@@ -25,14 +25,17 @@
 			- Starts other processes. Like login.
 		-
 	- Process Manager
+	  collapsed:: true
 		- Scheduling
+		  collapsed:: true
 			- Priority Queue
 		- Transfer of control
+		  collapsed:: true
 			- Interruption Treatment
 				- Changes stack pointer to kernel's stack
 				- Saves information needed to go back to User's stack
-				-
 	- Process
+	  collapsed:: true
 		- Hardware
 			- Processor Registries
 			- Memory Registries
@@ -41,4 +44,3 @@
 			- Priority
 			- Status
 			- Other infos... (open descriptors.. etc)
-	-
