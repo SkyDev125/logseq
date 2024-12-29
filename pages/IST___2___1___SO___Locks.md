@@ -114,8 +114,13 @@
 			- Wait
 				- ```cpp
 				  ```
-			- S
-			-
+			- Signal
+				- ```cpp
+				  ```
+			- Broadcast
+				- ```cpp
+				  ```
+				-
 	- Deadlocks
 	  collapsed:: true
 		- Definition
