@@ -11,5 +11,9 @@
 		- Micro-Kernel
 			- Only has the very essentials.
 	- Boot Cycle
-		-
+		- Turn On
+		- Bios
+		- Bootloader
+			-
+		- Kernel Initialization
 		-
