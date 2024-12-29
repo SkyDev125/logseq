@@ -27,7 +27,6 @@
 	- Process Manager
 		- Scheduling
 			- Priority Queue
-			-
 		- Transfer of control
 	- Process
 		- Hardware
