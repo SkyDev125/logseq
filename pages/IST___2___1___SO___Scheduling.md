@@ -28,6 +28,7 @@
 				- Deadlines
 				- Predictable performance and workloads.
 	- Process Struct
+	  collapsed:: true
 		- Info
 			- Information for scheduling and signals.
 			- Needs to always be in memory.
@@ -36,7 +37,14 @@
 			- Priority
 			- Signals sent
 			- Time in memory
-			- Cpu Time
+			- Time in CPU
+			- Process ID
+			- Parent Process ID
 	- User Struct
-		- Only needed while process is in Execution
-		- Can be stored to disk in the meantime.
+		- Info
+			- Only needed while process is in Execution
+			- Can be stored to disk in the meantime.
+		- Properties
+			- Processor Registries
+			- Kernel Stack
+			- UID, g
