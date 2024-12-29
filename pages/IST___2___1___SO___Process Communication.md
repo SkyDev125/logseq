@@ -26,4 +26,7 @@
 			- Can be opened and used by processes without any affiliation.
 			- Works very similarly to a normal pipe. But has a name in the filesystem.
 		- Programming
+			- Initialize
+			- Open
+			- Unlink
 	- Signals
