@@ -4,13 +4,12 @@
 - Notes
 	- Scheduling Policies
 		- Interactive Users in Shared time (Most Common)
-		  collapsed:: true
 			- Properties
-			  collapsed:: true
 				- Time slices
 					- Defines a max time for each process, going through them in FIFO, moving to the next either through sys calls that wait or end of max time.
 				- Dynamic Priorities
 					- Allows to allocate different time slices for each process. based on how important it is. (more important get smaller slices of time as they need to be more responsive.)
+					- M
 				- Preemption
 					- Switches to a more important process to make sure it's response time is reduced.
 			- Good
