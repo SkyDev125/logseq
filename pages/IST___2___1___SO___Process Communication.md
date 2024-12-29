@@ -13,7 +13,7 @@
 			- ```cpp
 			  #include <unistd.h>
 			  
-			  
+			  int pipe(int pipefd[2]);
 			  ```
 	- Named Pipes
 	- Signals
