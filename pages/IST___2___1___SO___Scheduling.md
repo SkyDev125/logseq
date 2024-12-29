@@ -5,6 +5,11 @@
 	- Scheduling Policies
 		- Batch
 			- Good
-				- Productivity - Through
-		- Real Time
+				- Productivity - Throughput
+				- Turn around time
+				- High Processor Usage
 		- Interactive Users in Shared time
+			- Good
+				- Response Time
+		- Real Time
+			-
