@@ -36,5 +36,5 @@
 			- Open
 				- Works like the normal Open for file descriptors, however it will wait until the other side of the pipe is opened.
 			- Unlink
-			-
+				- Same function for file Descriptors. Others also apply like write, read, etc.
 	- Signals
