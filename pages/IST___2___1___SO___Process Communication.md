@@ -33,6 +33,8 @@
 				  
 				  int mkfifo(const char *pathname, mode_t mode);
 				  ```
+			- Open
+				- Works like the normal Open for file descriptors, however it will wait until the other side of the pipe is opened.
 			- Unlink
-				-
+			-
 	- Signals
