@@ -6,5 +6,10 @@
 			- Uses Device drivers to be able to handle evolution like new peripherals.
 			- Is a single system organized in modules
 		- Layers
-			-
+			- Easy to modify the code of a single layer.
+			- More security
 		- Micro-Kernel
+			- Only has the very essentials.
+	- Boot Cycle
+		-
+		-
