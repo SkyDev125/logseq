@@ -124,15 +124,15 @@
 				  int pthread_cond_wait(pthread_cond_t *restrict cond,
 				             pthread_mutex_t *restrict mutex);
 				  ```
-				- reaquires the lock atomically, when signaled.
-				- Recommended to check the
+				- Requires the lock atomically, when signalled.
+				- Recommended to check the condition again, just in case it might have been changed by a different thread.
 			- Signal
 				- ```cpp
 				  #include <pthread.h>
 				  
 				  int pthread_cond_signal(pthread_cond_t *cond);
 				  ```
-				- Doesnt do anything if there's nothing waiting.
+				- Doesn't do anything if there's nothing waiting.
 				- Unlocks a single wait.
 			- Broadcast
 				- ```cpp
