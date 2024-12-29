@@ -128,12 +128,15 @@
 				- ```cpp
 				  #include <pthread.h>
 				  
-				  
-				  ```
-			- Broadcast
-				- ```cpp
+				  int pthread_cond_signal(pthread_cond_t *cond);
 				  ```
 				-
+			- Broadcast
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_cond_broadcast(pthread_cond_t *cond);
+				  ```
 	- Deadlocks
 	  collapsed:: true
 		- Definition
