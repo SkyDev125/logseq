@@ -2,6 +2,7 @@
 	- ![14 - Organizacao-sistemas-operativos e despacho.pdf](../assets/14_-_Organizacao-sistemas-operativos_e_despacho_1735458139693_0.pdf)
 - Notes
 	- SO Structures
+	  collapsed:: true
 		- Monolith
 			- Uses Device drivers to be able to handle evolution like new peripherals.
 			- Is a single system organized in modules
@@ -11,6 +12,7 @@
 		- Micro-Kernel
 			- Only has the very essentials.
 	- Boot Cycle
+	  collapsed:: true
 		- Turn On
 		- Bios
 			- Copies the execution of the bootloader to memory and runs it.
@@ -18,7 +20,8 @@
 			- Loads the kernel in the Disk to the memory, and starts it.
 		- Kernel Initialization
 			- Starts base data structures
-			- Copies Memory treating routines
+			- Copies Memory and interrupt treating routines
 			- Fills Interrupts
 			- Starts other processes. Like login.
 		-
+	- Process
