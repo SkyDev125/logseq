@@ -1,5 +1,7 @@
 - References
 	- ![Mem-Partilhada I 2024-25-lock-rwl-noimpl (1).pdf](../assets/Mem-Partilhada_I_2024-25-lock-rwl-noimpl_(1)_1733670341075_0.pdf)
+	- ![10 - Semaforos  - Cooperacao entre actividades (1).pdf](../assets/10_-_Semaforos_-_Cooperacao_entre_actividades_(1)_1735447570157_0.pdf)
+	- ![11 - Variaveis de condicao - 2.pdf](../assets/11_-_Variaveis_de_condicao_-_2_1735447573321_0.pdf)
 - Notes
 	- Mutex
 	  collapsed:: true
