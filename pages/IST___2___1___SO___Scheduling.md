@@ -6,8 +6,9 @@
 		- Interactive Users in Shared time (Most Common)
 			- Properties
 				- Time slices
-					- Defines a max time for each process,
+					- Defines a max time for each process, going through them in FIFO, moving to the next either through sys calls that wait or end of max time.
 				- Priorities
+					-
 				- Dynamic Priorities
 				- Estimation
 			- Good
