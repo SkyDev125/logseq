@@ -30,6 +30,7 @@
 		- Transfer of control
 			- Interruption Treatment
 				- Changes stack pointer to kernel's stack
+				- Saves information needed to go back to User's stack
 				-
 	- Process
 		- Hardware
