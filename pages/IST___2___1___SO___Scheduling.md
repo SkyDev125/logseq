@@ -9,9 +9,9 @@
 					- Defines a max time for each process, going through them in FIFO, moving to the next either through sys calls that wait or end of max time.
 				- Dynamic Priorities
 					- Allows to allocate different time slices for each process. based on how important it is. (more important get smaller slices of time as they need to be more responsive.)
-					- M
+					- FIFO per Min priority queue. (0 - High priority, N - Low priority).
 				- Preemption
-					- Switches to a more important process to make sure it's response time is reduced.
+					- Switches to a Higher priority process  when it appears to make sure it's response time is reduced.
 			- Good
 			  collapsed:: true
 				- Response Time based on user interaction.
