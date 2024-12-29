@@ -104,7 +104,11 @@
 				  ```
 	- Condition Variables
 		- Definition
-			-
+			- Connected to a Mutex and related to a condition
+			- Is often used when a specific condition is to be checked, to either lock or unlock certain threads.
+		- Properties
+			- Can be waited for a signal or a broadcast.
+			- Signal unlocks all
 	- Deadlocks
 	  collapsed:: true
 		- Definition
