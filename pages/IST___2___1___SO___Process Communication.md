@@ -2,6 +2,7 @@
 	- ![13 - IPC (1).pdf](../assets/13_-_IPC_(1)_1735449996620_0.pdf)
 - Notes
 	- Pipes
+	  collapsed:: true
 		- Definition
 			- A FIFO (First in first out) of bytes that is connected between 2 processes.
 		- Properties
@@ -19,6 +20,7 @@
 			  ```
 			- In each pair of pipes, one will be for reading the other for writing, it's recommended to always close one of the pipes (on each side of the 2 processes) since there's a limit to how many file descriptors a process can have open.
 	- Named Pipes
+	  collapsed:: true
 		- Definition
 			- A pipe with a name, allowing for communication for non-affiliated processes.
 		- Properties
@@ -38,6 +40,7 @@
 			- Unlink
 				- Same function for file Descriptors. Others also apply like write, read, etc.
 	- Signals
+	  collapsed:: true
 		- Definition
 			- A message sent directly to a process that triggle a specific handling.
 		- Properties
