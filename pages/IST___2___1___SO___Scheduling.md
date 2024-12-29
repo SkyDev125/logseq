@@ -7,10 +7,10 @@
 			- Properties
 				- Time slices
 					- Defines a max time for each process, going through them in FIFO, moving to the next either through sys calls that wait or end of max time.
-				- Priorities
-					-
 				- Dynamic Priorities
+					- Allows to allocate different time slices for each process. based on how important it is.
 				- Estimation
+					-
 			- Good
 			  collapsed:: true
 				- Response Time based on user interaction.
