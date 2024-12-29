@@ -9,6 +9,7 @@
 			- Can be transmitted to the child processes.
 			- Can be used just like a normal file descriptor.
 			- Waits when writing to a full pipe or reading from an empty pipe.
+			- Can be used to redirect outputs to different inputs or the sort. Exactly how the | operator works in linux. closing stdout
 		- Programming
 			- ```cpp
 			  #include <unistd.h>
