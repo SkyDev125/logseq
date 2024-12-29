@@ -103,6 +103,7 @@
 				  int sem_post(sem_t *sem); // Increment sem by 1
 				  ```
 	- Condition Variables
+	  collapsed:: true
 		- Definition
 			- Connected to a Mutex and related to a condition
 			- Is often used when a specific condition is to be checked, to either lock or unlock certain threads.
@@ -124,7 +125,7 @@
 				  int pthread_cond_wait(pthread_cond_t *restrict cond,
 				             pthread_mutex_t *restrict mutex);
 				  ```
-				- Requires the lock atomically, when signalled.
+				- Unlocks the lock when activated. Waits, then re-acquires the lock atomically, when signalled.
 				- Recommended to check the condition again, just in case it might have been changed by a different thread.
 			- Signal
 				- ```cpp
@@ -150,4 +151,3 @@
 			- Use of try_lock()
 			- Force a specific condition to fix Cyclical deadlocks
 			- Free the locks for the operation if one of them fails. To allow others to finish their job and then try again
-	-
