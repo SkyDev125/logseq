@@ -1,0 +1,3 @@
+- References
+	- ![6. Teoremas de Gauss e de Stokes.pdf](../assets/6._Teoremas_de_Gauss_e_de_Stokes_1735668773204_0.pdf)
+- Notes
