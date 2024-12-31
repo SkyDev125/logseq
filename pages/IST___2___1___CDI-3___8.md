@@ -1,0 +1,4 @@
+- References
+	- ![8. Equacoes Diferenciais Parciais.pdf](../assets/8._Equacoes_Diferenciais_Parciais_1735668825831_0.pdf)
+- Notes
+	- 1st Part Only.
