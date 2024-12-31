@@ -1,4 +1,4 @@
 - References
 	- ![6. Teoremas de Gauss e de Stokes.pdf](../assets/6._Teoremas_de_Gauss_e_de_Stokes_1735668773204_0.pdf)
-	-
+	- ![6. Teoremas de Gauss e de Stokes - Exercicios.pdf](../assets/6._Teoremas_de_Gauss_e_de_Stokes_-_Exercicios_1735668981055_0.pdf)
 - Notes

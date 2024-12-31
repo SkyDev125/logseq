@@ -1,4 +1,5 @@
 - References
 	- ![7. Series de Fourier.pdf](../assets/7._Series_de_Fourier_1735668800127_0.pdf)
+	- ![7. Series de Fourier - Exercicios.pdf](../assets/7._Series_de_Fourier_-_Exercicios_1735668993722_0.pdf)
 - Notes
 -
