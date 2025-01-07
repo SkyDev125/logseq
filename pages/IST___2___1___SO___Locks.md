@@ -70,7 +70,6 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
-	  collapsed:: true
 		- Definition
 			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
@@ -101,6 +100,7 @@
 				  int sem_post(sem_t *sem); // Increment sem by 1
 				  ```
 	- Condition Variables
+	  collapsed:: true
 		- Definition
 			-
 	- Deadlocks
