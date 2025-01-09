@@ -5,7 +5,6 @@
 	- ![11 - Variaveis de condicao - 2.pdf](../assets/11_-_Variaveis_de_condicao_-_2_1735447573321_0.pdf)
 - Notes
 	- Mutex
-	  collapsed:: true
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
@@ -72,7 +71,6 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
-	  collapsed:: true
 		- Definition
 			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
@@ -103,7 +101,6 @@
 				  int sem_post(sem_t *sem); // Increment sem by 1
 				  ```
 	- Condition Variables
-	  collapsed:: true
 		- Definition
 			- Connected to a Mutex and related to a condition
 			- Is often used when a specific condition is to be checked, to either lock or unlock certain threads.
@@ -143,7 +140,6 @@
 				  ```
 				- Unlocks all waits.
 	- Deadlocks
-	  collapsed:: true
 		- Definition
 			- Two threads or more get locked indefinitely with no way to free themselves.
 		- Handling
