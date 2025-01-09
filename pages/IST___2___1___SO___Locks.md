@@ -1,8 +1,10 @@
 - References
 	- ![Mem-Partilhada I 2024-25-lock-rwl-noimpl (1).pdf](../assets/Mem-Partilhada_I_2024-25-lock-rwl-noimpl_(1)_1733670341075_0.pdf)
+	- ![Mem-Partilhada II 2024-25-filosofos-interblocagem (2).pdf](../assets/Mem-Partilhada_II_2024-25-filosofos-interblocagem_(2)_1735449340491_0.pdf)
+	- ![10 - Semaforos  - Cooperacao entre actividades (1).pdf](../assets/10_-_Semaforos_-_Cooperacao_entre_actividades_(1)_1735447570157_0.pdf)
+	- ![11 - Variaveis de condicao - 2.pdf](../assets/11_-_Variaveis_de_condicao_-_2_1735447573321_0.pdf)
 - Notes
 	- Mutex
-	  collapsed:: true
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
@@ -102,7 +104,43 @@
 	- Condition Variables
 	  collapsed:: true
 		- Definition
-			-
+			- Connected to a Mutex and related to a condition
+			- Is often used when a specific condition is to be checked, to either lock or unlock certain threads.
+		- Properties
+			- Can be waited for a signal or a broadcast.
+			- Signal unlocks one of the waits.
+			- Broadcast unlocks all waits.
+		- Programming
+			- Initialize
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
+				  ```
+			- Wait
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_cond_wait(pthread_cond_t *restrict cond,
+				             pthread_mutex_t *restrict mutex);
+				  ```
+				- Unlocks the lock when activated. Waits, then re-acquires the lock atomically, when signalled.
+				- Recommended to check the condition again, just in case it might have been changed by a different thread.
+			- Signal
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_cond_signal(pthread_cond_t *cond);
+				  ```
+				- Doesn't do anything if there's nothing waiting.
+				- Unlocks a single wait.
+			- Broadcast
+				- ```cpp
+				  #include <pthread.h>
+				  
+				  int pthread_cond_broadcast(pthread_cond_t *cond);
+				  ```
+				- Unlocks all waits.
 	- Deadlocks
 	  collapsed:: true
 		- Definition
@@ -112,4 +150,3 @@
 			- Use of try_lock()
 			- Force a specific condition to fix Cyclical deadlocks
 			- Free the locks for the operation if one of them fails. To allow others to finish their job and then try again
-	-
