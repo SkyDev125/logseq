@@ -5,6 +5,7 @@
 	- ![11 - Variaveis de condicao - 2.pdf](../assets/11_-_Variaveis_de_condicao_-_2_1735447573321_0.pdf)
 - Notes
 	- Mutex
+	  collapsed:: true
 		- Definition
 			- Protects parts of memory from being tampered with by other threads while one thread works on it.
 		- Properties
@@ -34,7 +35,6 @@
 				  ```
 				- Unlocks Allowing the other threads to lock it again and process.
 	- Read Write Lock
-	  collapsed:: true
 		- Definition
 			- Abstraction of Mutexes that allows for the protection of specific read only or write only operations.
 		- Properties
@@ -72,6 +72,7 @@
 				- When a write occurs, it just waits for it to unlock, allowing for the rest to continue.
 				- For this reason it doesn't require a specific implementation for each "write or read" unlock.
 	- Semaphores
+	  collapsed:: true
 		- Definition
 			- A counter that is protected by the kernel and that works similar to a Mutex.
 		- Properties
