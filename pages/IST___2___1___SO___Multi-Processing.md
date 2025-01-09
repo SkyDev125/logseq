@@ -1,3 +1,5 @@
+public:: true
+
 - References
 	- ![Programacao com Processos e Tarefas 2024-25.pdf](../assets/Programacao_com_Processos_e_Tarefas_2024-25_1733609965851_0.pdf)
 - Notes
@@ -70,6 +72,7 @@
 				- Allows for the execution of a completely different binary. With a new memory space.
 				- Changes the UID/GUID to the owner of the file
 	- Thread
+	  collapsed:: true
 		- Definition
 			- A worker to execute some specific job
 		- Properties
@@ -78,6 +81,7 @@
 			- Each thread has its own stack
 			- Resources don't get released until it some other threads runs pthread_join() for it.
 		- Programming
+		  collapsed:: true
 			- Create a new Thread
 				- ```cpp
 				  #include <pthread.h>

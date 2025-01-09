@@ -1,3 +1,5 @@
+public:: true
+
 - References
 	- ![15 - Escalonamento - introducao.pdf](../assets/15_-_Escalonamento_-_introducao_1735459487251_0.pdf)
 	- ![16 - Escalonamento - unix e linux.pdf](../assets/16_-_Escalonamento_-_unix_e_linux_1735459490265_0.pdf)

@@ -1,3 +1,5 @@
+public:: true
+
 - References
 	- ![Mem-Partilhada I 2024-25-lock-rwl-noimpl (1).pdf](../assets/Mem-Partilhada_I_2024-25-lock-rwl-noimpl_(1)_1733670341075_0.pdf)
 	- ![Mem-Partilhada II 2024-25-filosofos-interblocagem (2).pdf](../assets/Mem-Partilhada_II_2024-25-filosofos-interblocagem_(2)_1735449340491_0.pdf)
