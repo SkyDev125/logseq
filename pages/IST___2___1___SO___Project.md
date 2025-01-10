@@ -25,6 +25,7 @@
 						- Remove from subscriber's list
 					- Disconnections
 						- if Client closed pipes
+							-
 						- if Receives SIGUSR1
 						- Remove all subscriptions of that client
 						-
