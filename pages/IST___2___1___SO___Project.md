@@ -12,6 +12,7 @@
 					- "commands+clientid" (Read)
 					- "replies+clientid" (Write)
 					- "notifications+clientid" (Write)
+					-
 			- Producer-Consumer queue for client commands
 				- Thread per client, for command processing
 				- Handle
@@ -24,6 +25,7 @@
 					- Disconnections
 						- if Client closed pipes
 						- if Receives SIGUSR1
+						- Remove all subscriptions of that client
 						-
 					-
 					-
