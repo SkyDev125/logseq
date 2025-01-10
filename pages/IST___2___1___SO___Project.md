@@ -4,9 +4,9 @@
 			- ```shell
 			  ./kvs dir_jobs  max_threads  backups_max  nome_do_FIFO_de_registo
 			  ```
-			- New thread for Registers
+			- New thread for
 				- Manages connection requests.
-				- Replies with
+			- Producer queue for client commands
 		-
 	- Client
 		- TODO Start-up format
