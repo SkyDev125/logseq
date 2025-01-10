@@ -7,7 +7,10 @@
 			- New thread
 				- Manages connection requests.
 			- Producer-Consumer queue for client commands
-				- Creation of threads for consumption
+				- Threads will be created to consume this queue
+				- Handle these commands:
+					- Creation of NamedPipes (commands, replies, notifications)
+					-
 		-
 	- Client
 		- TODO Start-up format
