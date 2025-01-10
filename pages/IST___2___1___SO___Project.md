@@ -20,10 +20,11 @@
 			  ```
 			- Connect
 				- Create Named Pipes
-					- "commands+clientid"
-					- "replies+clientid"
-					- "notifications+clientid"
+					- "commands+clientid" (Write)
+					- "replies+clientid" (Read)
+					- "notifications+clientid" (Read)
 				- Send the Name of the pipes to server
 					- Through connections_pipe
+				- Wait for ACK reply from server on "replies+clientid" pipe
 			-
 			-
