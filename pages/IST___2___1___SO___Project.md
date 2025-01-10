@@ -10,10 +10,6 @@
 				- Threads will be created to consume this queue
 				- Handle these commands:
 					- Connect
-						- Create Named Pipes
-							- Commands
-							- Replies
-							- Notifications
 					-
 					-
 		-
@@ -23,9 +19,9 @@
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
 			- Connect
-				- Send a connect request with 3 "requested names"
-					- "commands+clientid" (send)
-					- "replies+clientid" (receive)
-					- "notifications+clientid" (receive)
+			- Create Named Pipes
+				- Commands
+				- Replies
+				- Notifications
 			-
 			-
