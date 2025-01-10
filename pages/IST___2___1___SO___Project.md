@@ -23,6 +23,7 @@
 					- "commands+clientid"
 					- "replies+clientid"
 					- "notifications+clientid"
-				- Send the Name of the pipes to Server
+				- Send the Name of the pipes to server
+					- Through connections_pipe
 			-
 			-
