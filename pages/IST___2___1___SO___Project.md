@@ -2,8 +2,7 @@
 	- TODO
 	- TODO
 	- TODO
-	- Here is work:
-	  - [ ] Do this
-	  - [ ] Do that
-	  - [ ] Do more
+		- WTF
+		  * [ ] Do that
+		  * [ ] Do more
 -
