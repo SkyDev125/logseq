@@ -7,7 +7,7 @@
 			- New thread
 				- Manages connection requests.
 				- Limit connections to MAX_CLIENTS
-					- Blocks until
+					- Blocks until connections get closed to accept new ones
 				- Save pipe names
 					- "commands+clientid" (Read)
 					- "replies+clientid" (Write)
