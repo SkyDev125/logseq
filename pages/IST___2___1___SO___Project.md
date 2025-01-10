@@ -4,13 +4,17 @@
 			- ```shell
 			  ./kvs dir_jobs  max_threads  backups_max  nome_do_FIFO_de_registo
 			  ```
+			-
 		-
 	- Client
-		- TODO Start-up forma
+		- TODO Start-up format
 			- ```shell
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
 			- Connect
 				- Send a connect request with 3 "requested names"
-					-
+					- Commands
+					- Replies
+					- Notifications
+			-
 			-
