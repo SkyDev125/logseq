@@ -1,12 +1,12 @@
 - Part2
 	- Server
-		- Startup format
+		- TODO Start-up format
 			- ```shell
-			  kvs  dir_jobs  max_threads  backups_max  nome_do_FIFO_de_registo
+			  ./kvs dir_jobs  max_threads  backups_max  nome_do_FIFO_de_registo
 			  ```
 		-
 	- Client
-		- Start-up format
+		- TODO Start-up forma
 			- ```shell
-			  client  id_do_cliente nome_do_FIFO_de_registo
+			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
