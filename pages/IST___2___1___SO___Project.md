@@ -16,8 +16,8 @@
 			  ```
 			- Connect
 				- Send a connect request with 3 "requested names"
-					- "command+clientid"
-					- "ack+clientid"
-					- "notification+clientid"
+					- "commands+clientid" (send)
+					- "replies+clientid" (receive)
+					- "notifications+clientid" (receive)
 			-
 			-
