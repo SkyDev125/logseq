@@ -19,9 +19,10 @@
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
 			- Connect
-			- Create Named Pipes
-				- Commands
-				- Replies
-				- Notifications
+				- Create Named Pipes
+					- "commands+clientid"
+					- "replies+clientid"
+					- "notifications+clientid"
+				- Send the Name of the pipes to Server
 			-
 			-
