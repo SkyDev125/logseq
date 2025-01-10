@@ -35,7 +35,7 @@
 					- Through connections_pipe
 				- Create 2 threads
 					- Thread1 - Commands
-						- Should wait for ACK on "replies+clientid" pipe from server after each command
+						- Should wait for ACK on "replies+clientid" after each command
 					- Thread2 - Notifications
 			-
 			-
