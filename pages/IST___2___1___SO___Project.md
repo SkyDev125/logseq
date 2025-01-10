@@ -9,7 +9,12 @@
 			- Producer-Consumer queue for client commands
 				- Threads will be created to consume this queue
 				- Handle these commands:
-					- Creation of NamedPipes (commands, replies, notifications)
+					- Connect
+						- Create Named Pipes
+							- Commands
+							- Replies
+							- Notifications
+					-
 					-
 		-
 	- Client
