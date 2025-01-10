@@ -27,10 +27,11 @@
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
 			- Connect
+				-
 				- Create Named Pipes
-					- "commands+clientid" (Write)
-					- "replies+clientid" (Read)
-					- "notifications+clientid" (Read)
+					- "commands+clientid" (Write) (thread1)
+					- "replies+clientid" (Read) (thread1)
+					- "notifications+clientid" (Read) (thread2)
 				- Send the Name of the pipes to server
 					- Through connections_pipe
 				- Wait for ACK reply from server on "replies+clientid" pipe
