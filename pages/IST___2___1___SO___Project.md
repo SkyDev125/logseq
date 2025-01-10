@@ -24,8 +24,7 @@
 					- Unsubscriptions
 						- Remove from subscriber's list
 					- Disconnections
-						- if Client closed pipes
-							-
+						- if Client closes pipes
 						- if Receives SIGUSR1
 						- Remove all subscriptions of that client
 						-
@@ -54,5 +53,6 @@
 			- Unsubscribe
 			- Delay
 			- Disconnect
+				- Closes Pipes
 			-
 			-
