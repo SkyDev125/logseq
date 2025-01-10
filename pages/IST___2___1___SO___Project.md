@@ -10,3 +10,5 @@
 			- ```shell
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
+			- Connect
+			-
