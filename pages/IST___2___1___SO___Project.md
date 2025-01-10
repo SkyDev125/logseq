@@ -8,11 +8,10 @@
 				- Manages connection requests.
 				- Limit connections to MAX_CLIENTS
 					- Blocks until connections get closed to accept new ones
-				- Save pipe names
+				- Save the following information in a Client Hashtable
 					- "commands+clientid" (Read)
 					- "replies+clientid" (Write)
 					- "notifications+clientid" (Write)
-					-
 			- Producer-Consumer queue for client commands
 				- Thread per client, for command processing
 				- Handle
