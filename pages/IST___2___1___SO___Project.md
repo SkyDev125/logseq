@@ -49,5 +49,9 @@
 						- Should wait for ACK on "replies+clientid" after each command
 					- Thread2 - Notifications
 						- Print to STDOUT
+			- Delay
+			- Subscribe
+			- Unsubscribe
+			- Disconnect
 			-
 			-
