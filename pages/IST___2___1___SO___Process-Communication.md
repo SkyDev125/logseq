@@ -22,7 +22,6 @@ public:: true
 			  ```
 			- In each pair of pipes, one will be for reading the other for writing, it's recommended to always close one of the pipes (on each side of the 2 processes) since there's a limit to how many file descriptors a process can have open.
 	- Named Pipes
-	  collapsed:: true
 		- Definition
 			- A pipe with a name, allowing for communication for non-affiliated processes.
 		- Properties
@@ -30,7 +29,6 @@ public:: true
 			- Can be opened and used by processes without any affiliation.
 			- Works very similarly to a normal pipe. But has a name in the filesystem.
 		- Programming
-		  collapsed:: true
 			- Initialize
 				- ```cpp
 				  #include <sys/types.h>
