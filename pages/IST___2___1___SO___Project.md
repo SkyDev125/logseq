@@ -11,5 +11,6 @@
 			  ./client id_do_cliente nome_do_FIFO_de_registo
 			  ```
 			- Connect
-				- Pipe
+				- Send a connect request with 3 "requested names"
+					-
 			-
