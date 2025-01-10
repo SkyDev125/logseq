@@ -45,7 +45,9 @@
 					- Through connections_pipe
 				- Create 2 threads
 					- Thread1 - Commands
+						- Receive Commands from STDIN
 						- Should wait for ACK on "replies+clientid" after each command
 					- Thread2 - Notifications
+						- Print to STDOUT
 			-
 			-
