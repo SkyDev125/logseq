@@ -8,12 +8,12 @@
 				- Manages connection requests.
 				- Limit connections to MAX_CLIENTS
 					- Blocks until connections get closed to accept new ones
-				- Save the following information in a Client Hashtable
+				- The thread should store the following information
 					- Pipes
 						- "commands+clientid" (Read)
 						- "replies+clientid" (Write)
 						- "notifications+clientid" (Write)
-					- Client Subscriptions (To remove subscriptions on Disconnection)
+					- Client Subscriptions (To remove subscriptions on Disconnection) on a list
 			- Producer-Consumer queue for client commands
 				- Thread per client, for command processing
 				- Handle
