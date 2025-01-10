@@ -6,7 +6,6 @@
 			  ```
 			- New thread
 				- Manages connection requests.
-				-
 			- Producer-Consumer queue for client commands
 				- Creation of threads for consumption
 		-
@@ -17,8 +16,8 @@
 			  ```
 			- Connect
 				- Send a connect request with 3 "requested names"
-					- Commands
-					- Replies
-					- Notifications
+					- "command+clientid"
+					- "ack+clientid"
+					- "notification+clientid"
 			-
 			-
