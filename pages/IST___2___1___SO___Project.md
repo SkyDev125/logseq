@@ -7,7 +7,7 @@
 			- New thread for
 				- Manages connection requests.
 			- Producer-Consumer queue for client commands
-				-
+				- Creation of threads for consumption
 		-
 	- Client
 		- TODO Start-up format
