@@ -16,7 +16,8 @@
 				- Thread per client, for command processing
 				- Handle
 					- Subscriptions
-						-
+						- Add list of subscribers per KVS node
+						- Change KVS_WRITE to notify all subscribers on
 					- Unsubscriptions
 					- Disconnections
 						- if Client closed pipes
