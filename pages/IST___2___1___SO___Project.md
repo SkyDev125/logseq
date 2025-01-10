@@ -1,8 +1,12 @@
 - Part2
 	- Server
-		- Change KVS to Start in this format
+		- Startup format
 			- ```shell
 			  kvs  dir_jobs  max_threads  backups_max  nome_do_FIFO_de_registo
 			  ```
 		-
 	- Client
+		- Start-up format
+			- ```shell
+			  client  id_do_cliente nome_do_FIFO_de_registo
+			  ```
