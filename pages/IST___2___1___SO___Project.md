@@ -14,8 +14,10 @@
 					- "notifications+clientid" (Write)
 			- Producer-Consumer queue for client commands
 				- Threads will be created to consume this queue
-				- Handle these commands:
-					- Connect
+				- Handle
+					- Subscriptions
+					- Unsubscriptions
+					- Disconnections
 					-
 					-
 		-
