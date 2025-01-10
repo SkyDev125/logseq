@@ -13,7 +13,7 @@
 					- "replies+clientid" (Write)
 					- "notifications+clientid" (Write)
 			- Producer-Consumer queue for client commands
-				- Threads will be created to consume this queue
+				- Thread per client, reading
 				- Handle
 					- Subscriptions
 					- Unsubscriptions
