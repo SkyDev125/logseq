@@ -1,2 +1,4 @@
-- Part2:
-	- TODO
+- Part2
+	- Server
+		-
+	- Client
