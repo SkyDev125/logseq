@@ -17,7 +17,7 @@
 				- Handle
 					- Subscriptions
 						- Add list of subscribers per KVS node
-						- Requires a
+						- Needs to be atomic
 						- Change KVS_WRITE and KVS_DELETE to notify all subscribers on change.
 					- Unsubscriptions
 						- Remove from subscriber's list
