@@ -9,9 +9,11 @@
 				- Limit connections to MAX_CLIENTS
 					- Blocks until connections get closed to accept new ones
 				- Save the following information in a Client Hashtable
-					- "commands+clientid" (Read)
-					- "replies+clientid" (Write)
-					- "notifications+clientid" (Write)
+					- Pipes
+						- "commands+clientid" (Read)
+						- "replies+clientid" (Write)
+						- "notifications+clientid" (Write)
+					- Client Subscriptions (To remove subscriptions on Disconnection)
 			- Producer-Consumer queue for client commands
 				- Thread per client, for command processing
 				- Handle
