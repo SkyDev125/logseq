@@ -22,6 +22,7 @@ public:: true
 			  ```
 			- In each pair of pipes, one will be for reading the other for writing, it's recommended to always close one of the pipes (on each side of the 2 processes) since there's a limit to how many file descriptors a process can have open.
 	- Named Pipes
+	  collapsed:: true
 		- Definition
 			- A pipe with a name, allowing for communication for non-affiliated processes.
 		- Properties
@@ -41,7 +42,6 @@ public:: true
 			- Unlink
 				- Same function for file Descriptors. Others also apply like write, read, etc.
 	- Signals
-	  collapsed:: true
 		- Definition
 			- A message sent directly to a process that triggle a specific handling.
 		- Properties
@@ -50,7 +50,6 @@ public:: true
 			- Can't receive new signals while treating signals.
 			- While treating the signal, only specific functions can be used. Called "async-signal-safe".
 		- Programming
-		  collapsed:: true
 			- ```cpp
 			  #include <signal.h>
 			  
