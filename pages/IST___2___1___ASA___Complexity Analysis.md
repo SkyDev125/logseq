@@ -2,3 +2,5 @@
 	- ![T02_DivideAndConquer.pdf](../assets/T02_DivideAndConquer_1736859307754_0.pdf)
 	- ![T03_TeoremaMestre_prova.pdf](../assets/T03_TeoremaMestre_prova_1736859310824_0.pdf)
 - Notes
+- Exercises
+	-
