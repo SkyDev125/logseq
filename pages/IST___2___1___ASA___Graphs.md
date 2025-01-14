@@ -2,5 +2,10 @@
 	- ![T10_Grafos_DFS.pdf](../assets/T10_Grafos_DFS_1736859578831_0.pdf)
 	- ![T12_Ord_Topologica.pdf](../assets/T12_Ord_Topologica_1736859582045_0.pdf)
 	- ![T12_SCCs.pdf](../assets/T12_SCCs_1736859595389_0.pdf)
-	-
+	- ![T13_BFS.pdf](../assets/T13_BFS_1736859639547_0.pdf)
+	- ![T14_CaminhosMaisCurtos_Dijkstra.pdf](../assets/T14_CaminhosMaisCurtos_Dijkstra_1736859643876_0.pdf)
+	- ![T15_DAGs_BellmanFord.pdf](../assets/T15_DAGs_BellmanFord_1736859674945_0.pdf)
+	- ![T16_FW_Johnson.pdf](../assets/T16_FW_Johnson_1736859678202_0.pdf)
+	- ![T17_MSTs_Prim.pdf](../assets/T17_MSTs_Prim_1736859681930_0.pdf)
 - Notes
+-
