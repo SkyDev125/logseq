@@ -3,3 +3,5 @@
 	- ![T22_PuLP.pdf](../assets/T22_PuLP_1736859917524_0.pdf)
 	- ![T23_PL_Dualidade.pdf](../assets/T23_PL_Dualidade_1736859919988_0.pdf)
 - Notes
+- Exercises
+	- ![pratica12_sol.pdf](../assets/pratica12_sol_1736860235904_0.pdf)

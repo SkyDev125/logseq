@@ -2,4 +2,5 @@
 	- ![T19_20_Fluxos_FF_EK.pdf](../assets/T19_20_Fluxos_FF_EK_1736859778251_0.pdf)
 	- ![T21_Fluxos_Modelacao.pdf](../assets/T21_Fluxos_Modelacao_1736859780545_0.pdf)
 - Notes
--
+- Exercises
+	- ![pratica11_sol.pdf](../assets/pratica11_sol_1736860219634_0.pdf)

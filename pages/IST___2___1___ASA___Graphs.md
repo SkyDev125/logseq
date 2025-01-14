@@ -13,4 +13,5 @@
 	- ![pratica07_sol.pdf](../assets/pratica07_sol_1736860169153_0.pdf)
 	- ![pratica08_sol.pdf](../assets/pratica08_sol_1736860172221_0.pdf)
 	- ![pratica09_sol.pdf](../assets/pratica09_sol_1736860175464_0.pdf)
+	- ![pratica10_sol.pdf](../assets/pratica10_sol_1736860201903_0.pdf)
 -
