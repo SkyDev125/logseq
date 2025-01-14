@@ -1,0 +1,3 @@
+- References
+	- ![T08_09_AlgoritmosGreedy.pdf](../assets/T08_09_AlgoritmosGreedy_1736859474719_0.pdf)
+- Notes
