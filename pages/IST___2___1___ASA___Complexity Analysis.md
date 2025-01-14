@@ -3,4 +3,5 @@
 	- ![T03_TeoremaMestre_prova.pdf](../assets/T03_TeoremaMestre_prova_1736859310824_0.pdf)
 - Notes
 - Exercises
-	-
+	- ![pratica02_sol.pdf](../assets/pratica02_sol_1736860087936_0.pdf)
+	- ![pratica03_sol.pdf](../assets/pratica03_sol_1736860093379_0.pdf)
