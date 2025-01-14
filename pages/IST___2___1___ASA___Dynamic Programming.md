@@ -4,4 +4,4 @@
 - Notes
 - Exercises
 	- ![pratica04_sol.pdf](../assets/pratica04_sol_1736860114130_0.pdf)
-	-
+	- ![pratica05_sol.pdf](../assets/pratica05_sol_1736860119405_0.pdf)

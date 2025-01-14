@@ -9,4 +9,8 @@
 	- ![T17_MSTs_Prim.pdf](../assets/T17_MSTs_Prim_1736859681930_0.pdf)
 	- ![T18_ConjuntosDisjuntos_Kruskal.pdf](../assets/T18_ConjuntosDisjuntos_Kruskal_1736859731189_0.pdf)
 - Notes
+- Exercises
+	- ![pratica07_sol.pdf](../assets/pratica07_sol_1736860169153_0.pdf)
+	- ![pratica08_sol.pdf](../assets/pratica08_sol_1736860172221_0.pdf)
+	- ![pratica09_sol.pdf](../assets/pratica09_sol_1736860175464_0.pdf)
 -

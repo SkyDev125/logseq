@@ -1,3 +1,5 @@
 - References
 	- ![T08_09_AlgoritmosGreedy.pdf](../assets/T08_09_AlgoritmosGreedy_1736859474719_0.pdf)
 - Notes
+- Exercises
+	- ![pratica06_sol.pdf](../assets/pratica06_sol_1736860145563_0.pdf)
