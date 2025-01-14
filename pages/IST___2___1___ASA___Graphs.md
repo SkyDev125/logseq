@@ -1,3 +1,6 @@
 - References
+	- ![T10_Grafos_DFS.pdf](../assets/T10_Grafos_DFS_1736859578831_0.pdf)
+	- ![T12_Ord_Topologica.pdf](../assets/T12_Ord_Topologica_1736859582045_0.pdf)
+	- ![T12_SCCs.pdf](../assets/T12_SCCs_1736859595389_0.pdf)
 	-
 - Notes
