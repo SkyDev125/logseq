@@ -1,0 +1,4 @@
+- References
+	- ![T04_DynamicProgramming.pdf](../assets/T04_DynamicProgramming_1736859365747_0.pdf)
+	- ![T05_T06_DynamicProgramming.pdf](../assets/T05_T06_DynamicProgramming_1736859370489_0.pdf)
+- Notes
