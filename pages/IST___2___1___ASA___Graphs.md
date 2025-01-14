@@ -7,5 +7,6 @@
 	- ![T15_DAGs_BellmanFord.pdf](../assets/T15_DAGs_BellmanFord_1736859674945_0.pdf)
 	- ![T16_FW_Johnson.pdf](../assets/T16_FW_Johnson_1736859678202_0.pdf)
 	- ![T17_MSTs_Prim.pdf](../assets/T17_MSTs_Prim_1736859681930_0.pdf)
+	- ![T18_ConjuntosDisjuntos_Kruskal.pdf](../assets/T18_ConjuntosDisjuntos_Kruskal_1736859731189_0.pdf)
 - Notes
 -
