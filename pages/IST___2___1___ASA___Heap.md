@@ -1,5 +1,3 @@
 - References
 	- ![T07_Amontoados.pdf](../assets/T07_Amontoados_1736859443155_0.pdf)
 - Notes
-- Exercises
-	- ![pratica06_sol.pdf](../assets/pratica06_sol_1737045633088_0.pdf)
