@@ -36,9 +36,12 @@
 		- Logical separation of filesystems
 			- Files cant be split across partitions.
 		- List Format
-			- Simplest way to organize a file system
+			- Properties
 				- Name
 				- Size
 				- Next -> pointer to next data block
 				- Data
-			-
+			- Pros
+				- Simplest way to organize a file system
+			- Cons
+				-
