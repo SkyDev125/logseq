@@ -52,4 +52,6 @@
 				- I-Node table
 			- Windows
 				- MFT - Master File Table
-			-
+			- Volume Descriptor
+				- Replicated in many places of the Partition to ensure it can be recoverable
+				- Stores the data about
