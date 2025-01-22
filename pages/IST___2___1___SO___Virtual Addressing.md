@@ -10,4 +10,6 @@
 				- High fragmentation
 				- Replaces the current block with a smaller block...
 				- the process wont use all the memory allocated for it. internal fragmentation too.
+		- Pagination
+			-
 		-
