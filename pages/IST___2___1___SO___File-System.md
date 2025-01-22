@@ -21,9 +21,14 @@
 		- CD DVD
 	- File Object
 		- Byte Vector Structure
-		  collapsed:: true
 			- Id
 			- Name
 			- offset
 			- metadata
+				- Protection
+				- Owner
+				- Size
+				- Creation date
+				- Last Write/read
+	-
 		-
