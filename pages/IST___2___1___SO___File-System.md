@@ -4,6 +4,7 @@
 	- ![22 - Sistemas de ficheiros - Estruturas em memoria.pdf](../assets/22_-_Sistemas_de_ficheiros_-_Estruturas_em_memoria_1737551249259_0.pdf)
 - Notes
 	- Unix
+	  collapsed:: true
 		- Everything is a file
 			- Folders
 			- Pictures
@@ -20,6 +21,7 @@
 		- Hard drive
 		- CD DVD
 	- File Object
+	  collapsed:: true
 		- Byte Vector Structure
 			- Id
 			- Name
