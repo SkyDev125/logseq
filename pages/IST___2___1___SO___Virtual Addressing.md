@@ -52,5 +52,9 @@
 						- finds the largest possible.
 						- Makes it nearly impossible to get large segments
 					- First-fit
-						- Gets
+						- Memory fragments easily
+						- finds the first block available
+					- Next-fit
+						- finds the one right after the last found
+						-
 						-
