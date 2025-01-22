@@ -34,6 +34,7 @@
 			- Operating system updates it each time it fails to access a specific page.
 		- Memory Management Algorithms
 			- Memory Allocation
+			  collapsed:: true
 				- Pagination
 				  collapsed:: true
 					- Simple
@@ -63,11 +64,16 @@
 						- spreads tiny blocks across the memory (bad fragmentation)
 						-
 			- Memory Transfer
+				-
 				- On request
+				  collapsed:: true
 					- Used in segmented memory
 					- OS determines when to load the block into primary memory
 				- On demand
+				  collapsed:: true
 					- Used in paginated memory
 					- A fault is generated when trying to access and OS receives it, loading to primary memory
 				- Prefetching
+				  collapsed:: true
 					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
+				-
