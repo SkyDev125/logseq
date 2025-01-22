@@ -27,6 +27,7 @@ public:: true
 			- Copies the execution of the bootloader to memory and runs it.
 		- Bootloader
 			- Loads the kernel in the Disk to the memory, and starts it.
+			- Allows to select which OS to run.
 		- Kernel Initialization
 			- Starts base data structures
 			- Copies Memory and interrupt treating routines
