@@ -65,6 +65,7 @@
 						-
 			- Memory Transfer
 				- Properties
+				  collapsed:: true
 					- Each process needs to have at least
 					  collapsed:: true
 						- A code segment
@@ -72,8 +73,7 @@
 						- and stack in memory
 					- Swapping occurs if primary memory runs out.
 					- pages/segments that aren't currently in use get moved to secondary memory.
-					- if all segments of a process get transfered, its called "swapped out"
-					- Only occurs on necessity or
+					- if all segments of a process get transferred, its called "swapped out"
 				- On request
 				  collapsed:: true
 					- Used in segmented memory
