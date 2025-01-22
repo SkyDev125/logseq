@@ -118,4 +118,6 @@
 					- Aproximation
 						- Bit R
 							- Set by MMU when page is accessed
-						- if R = 1 -> increase
+						- R = 0 -> Increase age group
+						- R = 1, Reset age group
+						-
