@@ -22,7 +22,7 @@
 				- Better use of Real Memory
 			- Cons
 				- Fragmented Processes are slower
-				- Instructions need to be restartable
+				- Instructions need to be restartable due to fragmentation of processes.
 				-
 				-
 		-
