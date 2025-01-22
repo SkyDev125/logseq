@@ -33,4 +33,8 @@
 			- Small buffer (size changes based on quantum)
 			- Operating system updates it each time it fails to access a specific page.
 		- Memory Management Algorithms
-			-
+			- Memory Allocation
+				- Pagination
+					- Simple
+					- Finds the first free Page
+					-
