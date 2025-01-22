@@ -131,5 +131,9 @@
 						- Bit R and M in Page table
 							- R = 1 when read
 							- M = 1 when written
-						- 0 -> R = 0, M = 0
-						- 1: R=
+							- Constantly reset R to 0.
+						- 0: R=0 M=0
+						- 1: R=0 M=1
+						- 2: R=1 M=0
+						- 3: R=1 M=1
+						- Free pages in smallest group
