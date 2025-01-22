@@ -80,3 +80,5 @@
 					- B*(12 + B/R + (B/R)^2 + (B/R)^3)
 	- Support Structures for File Systems (Optimizations)
 		- Aid the filesystem by caching
+		- Make requests faster
+		-
