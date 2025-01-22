@@ -8,7 +8,7 @@ public:: true
 	- Security Modes
 		- User
 			- Only a sub-set of the instructions is allowed, direct memory access restricted through virtual memory.
-			- Uses interruptions to switch
+			- Uses interruptions to allow the OS to switch to kernel mode and do the direct access tasks.
 		- Kernel
 			- Full unrestricted Access
 	- SO Structures
