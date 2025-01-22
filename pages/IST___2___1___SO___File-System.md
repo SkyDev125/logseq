@@ -12,11 +12,15 @@
 			- Drivers
 			- etc
 	- Memory hierarchy
+	  collapsed:: true
 		- Registries
 		- Cache
 		- RAM
 		- NVME / SSD
 		- Hard drive
 		- CD DVD
-	-
+	- File Object
+		- Byte Vector Structure
+			- Name
+			-
 		-
