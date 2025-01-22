@@ -62,3 +62,10 @@
 						- finds the one right after the last found
 						- spreads tiny blocks across the memory (bad fragmentation)
 						-
+			- Memory Transfer
+				- On request
+					- Used in segmented memory
+					- OS determines when to load the block into primary memory
+				- On demand
+					-
+				- Prefetching
