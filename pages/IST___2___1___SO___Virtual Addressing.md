@@ -4,14 +4,15 @@
 	- ![20 - MV4 - Algoritmos 2024-25.pdf](../assets/20_-_MV4_-_Algoritmos_2024-25_1737552099487_0.pdf)
 - Notes
 	- Memory Management Unit
-	  collapsed:: true
 		- Redirects "virtual addresses" to actual addresses in memory.
 		- Segmentation
+		  collapsed:: true
 			- Cons
 				- High fragmentation
 				- Replaces the current block with an equal or smaller block from swap
 				- the process wont use all the memory allocated for it. internal fragmentation too.
 		- Pagination
+		  collapsed:: true
 			- Properties
 				- Split in multiple small pages
 				- Each process thinks it has the entire memory for itself.
@@ -27,5 +28,4 @@
 			- Calculating physical address
 				- Virtual Address + Offset
 		-
-	- TBL - Translation Lookaside Buffer
-		-
+		- TBL - Translation Lookaside Buffer
