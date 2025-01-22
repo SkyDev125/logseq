@@ -23,6 +23,7 @@ public:: true
 		- Batch
 		  collapsed:: true
 			- Good
+			  collapsed:: true
 				- Productivity - Throughput
 				- Turn around time
 				- High Processor Usage
@@ -45,7 +46,6 @@ public:: true
 			- Process ID
 			- Parent Process ID
 	- User Struct (Unix)
-	  collapsed:: true
 		- Info
 			- Only needed while process is in Execution
 			- Can be stored to disk in the meantime.

@@ -32,5 +32,6 @@
 				- Size
 				- Creation date
 				- Last Write/read
-	-
+	- Partition
+		- Logical separation of filesystems
 		-
