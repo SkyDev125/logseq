@@ -16,12 +16,12 @@
 				- Each process thinks it has the entire memory for itself.
 				- Page table converts the Process memory to real memory
 				- Unused Pages go to swap.
+				- Presence Bit lets us know if the page is in primary or secondary memory
 			- Pros
 				- Programmer doesnt need to worry about any virtual memory
 				- Better use of Real Memory
 			- Cons
 				- Fragmented Processes are slower
-				-
 				-
 				-
 		-
