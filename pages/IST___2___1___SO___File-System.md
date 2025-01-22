@@ -14,8 +14,9 @@
 	- Memory hierarchy
 		- Registries
 		- Cache
-		- Ram
+		- RAM
 		- NVME / SSD
 		- Hard drive
 		- CD DVD
+	-
 		-
