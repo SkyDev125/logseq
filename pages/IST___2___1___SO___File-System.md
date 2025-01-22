@@ -60,7 +60,7 @@
 			- Stores metadata in the described fields
 			- Stores DATA in I_blocks
 				- B = Data block size
-				- R =
+				- R = Block reference size (int usually 32 bits)
 				- Size 15
 				- 1-12
 					- Direct link to data blocks
@@ -72,3 +72,8 @@
 					- 2 levels of indirection
 					- Same as 1 level, but the first reserved data block, will point to B/R reserved data blocks, which then point to actual data.
 					- (B/R)^2
+				- 15
+					- 3 levels of indirection
+					- (B/R)^3
+				- Max file size
+					- B*(12 + B/R + B/R + B/R)
