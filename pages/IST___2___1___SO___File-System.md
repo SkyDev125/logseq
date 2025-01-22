@@ -37,4 +37,8 @@
 			- Files cant be split across partitions.
 		- List Format
 			- Simplest way to organize a file system
-				-
+				- Name
+				- Size
+				- Next -> pointer to next data block
+				- Data
+			-
