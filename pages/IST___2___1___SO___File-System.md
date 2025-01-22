@@ -46,4 +46,5 @@
 				- Usually pretty good for sequential static storage
 			- Cons
 				- Files that change sizes cause fragmentation of memory.
+			- Can be improved through creating directories that allow for the caching of searches of certain
 				-
