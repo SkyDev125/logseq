@@ -34,4 +34,5 @@
 				- Last Write/read
 	- Partition
 		- Logical separation of filesystems
+			- Files cant be split across partitions.
 		-
