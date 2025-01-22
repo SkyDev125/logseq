@@ -87,5 +87,6 @@
 					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
 				- Swapping
 					- Focuses on low priority processes, or blocked processes
-					-
+					- Has a minimum ammount of time it gives a process before swapping it again to disk.
+					- Process size (many pages make it harder to swap)
 				-
