@@ -5,4 +5,6 @@
 - Notes
 	- Memory Management Unit
 		- Redirects "virtual addresses" to actual addresses in memory.
+		- Segmentation
+			-
 		-
