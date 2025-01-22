@@ -35,9 +35,7 @@ public:: true
 			- Starts other processes. Like login.
 		-
 	- Process Manager
-	  collapsed:: true
 		- Transfer of control
-		  collapsed:: true
 			- Interruption Treatment
 				- Changes stack pointer to kernel's stack
 				- Saves information needed to go back to User's stack
