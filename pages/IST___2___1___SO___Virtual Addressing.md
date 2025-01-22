@@ -89,6 +89,7 @@
 				- Working-sets
 					- Helps prevent trashing
 					- A process usually is working in a very tiny amount of its total memory.
+					- A process will only be swapped into primary memory, if the minimum size of its working set can be moved all at once
 				- Transfer types
 				  collapsed:: true
 					- On request
