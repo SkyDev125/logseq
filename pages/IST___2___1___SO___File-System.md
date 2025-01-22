@@ -57,4 +57,11 @@
 				- Replicated in many places of the Partition to ensure it can be recoverable
 				- Stores the data about the I-nodes Table and the free blocks.
 		- EXT
-			- Stores metadata
+			- Stores metadata in the described fields
+			- Stores DATA in I_blocks
+				- Size 15
+				- 1-12
+					- Direct link to data blocks
+				- 13
+					- 1 level of indirection
+					- inside it will have another 15
