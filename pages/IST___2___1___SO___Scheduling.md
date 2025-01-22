@@ -7,7 +7,6 @@ public:: true
 	- Scheduling Policies
 		- Interactive Users in Shared time (Most Common)
 			- Properties
-			  collapsed:: true
 				- Time slices
 					- Defines a max time for each process, going through them in FIFO, moving to the next either through sys calls that wait or end of max time.
 				- Dynamic Priorities
@@ -20,8 +19,8 @@ public:: true
 			  collapsed:: true
 				- Response Time based on user interaction.
 		- Batch
+		  collapsed:: true
 			- Good
-			  collapsed:: true
 				- Productivity - Throughput
 				- Turn around time
 				- High Processor Usage
