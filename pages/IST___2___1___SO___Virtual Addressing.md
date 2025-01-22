@@ -3,3 +3,5 @@
 	- ![19 - MV3 - Eficiencia no enderecamento virtual.pdf](../assets/19_-_MV3_-_Eficiencia_no_enderecamento_virtual_1737552097124_0.pdf)
 	- ![20 - MV4 - Algoritmos 2024-25.pdf](../assets/20_-_MV4_-_Algoritmos_2024-25_1737552099487_0.pdf)
 - Notes
+	- Memory Management Unit
+		- Redirects "virtual addresses" to actual addresses in memory
