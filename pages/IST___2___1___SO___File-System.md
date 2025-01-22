@@ -78,6 +78,13 @@
 					- (B/R)^3
 				- Max file size
 					- B*(12 + B/R + (B/R)^2 + (B/R)^3)
+	- Links
+		- Soft
+			- Stores the path to the file inside
+			- Stops working if the original file is deleted
+		- Hard
+			- Points to the exact inode of the file
+			- Only if all hard links get deleted, does the file get marked as "deleted"
 	- Support Structures for File Systems (Optimizations)
 		- Aid the filesystem by caching
 		- Make requests faster
