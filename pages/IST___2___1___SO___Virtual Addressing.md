@@ -24,5 +24,6 @@
 				- Fragmented Processes are slower
 				- Instructions need to be restartable due to fragmentation of processes.
 				-
-				-
+			- Calculating physical address
+				- Page
 		-
