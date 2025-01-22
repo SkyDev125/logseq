@@ -76,4 +76,4 @@
 					- 3 levels of indirection
 					- (B/R)^3
 				- Max file size
-					- B*(12 + B/R + B/R + B/R)
+					- B*(12 + B/R + (B/R)^2 + (B/R)^3)
