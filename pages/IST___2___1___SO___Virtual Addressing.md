@@ -45,16 +45,20 @@
 					- Recompacts Segments on frees
 				- Finding Free blocks
 					- Best-Fit (smallest)
+					  collapsed:: true
 						- List sorted by size
 						- Finds the smallest that still allows for segment to fit
 					- Worst-Fit (largest)
+					  collapsed:: true
 						- List sorted by size
 						- finds the largest possible.
 						- Makes it nearly impossible to get large segments
 					- First-fit
+					  collapsed:: true
 						- Memory fragments easily
 						- finds the first block available
 					- Next-fit
+					  collapsed:: true
 						- finds the one right after the last found
-						-
+						- spreads tiny blocks across the memory (bad fragmentation)
 						-
