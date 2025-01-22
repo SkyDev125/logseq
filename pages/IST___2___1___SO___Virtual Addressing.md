@@ -18,6 +18,10 @@
 				- Unused Pages go to swap.
 			- Pros
 				- Programmer doesnt need to worry about any virtual memory
+				- Better use of Real Memory
+			- Cons
+				- Fragmented Processes are slower
+				-
 				-
 				-
 		-
