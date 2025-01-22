@@ -81,4 +81,5 @@
 	- Support Structures for File Systems (Optimizations)
 		- Aid the filesystem by caching
 		- Make requests faster
-		-
+		- isolate the processes from File System.
+		- Allows for multiple File systems at the same time.
