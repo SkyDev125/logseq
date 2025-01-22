@@ -114,4 +114,8 @@
 					- Uses time to define when to move it out of memory
 					- LRU - Least Recently Used
 						- Efficient due to reference locality
-						- Expensive
+						- Expensive in latency
+					- Aproximation
+						- Bit R
+							- Set by MMU when page is accessed
+						- if R = 1 -> increase
