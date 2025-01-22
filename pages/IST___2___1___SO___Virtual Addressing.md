@@ -37,4 +37,10 @@
 				- Pagination
 					- Simple
 					- Finds the first free Page
-					-
+					- Free Pages list
+				- Segmentation
+					- Complex
+					- Recompacts Segments on frees
+			- Finding Free blocks
+				- Best-Fit (smallest)
+				- Worst-Fit
