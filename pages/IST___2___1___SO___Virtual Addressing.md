@@ -43,4 +43,5 @@
 					- Recompacts Segments on frees
 			- Finding Free blocks
 				- Best-Fit (smallest)
-				- Worst-Fit
+					- F
+				- Worst-Fit (largest)
