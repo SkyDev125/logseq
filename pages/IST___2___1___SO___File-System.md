@@ -3,7 +3,7 @@
 	- ![21 - Sistemas de ficheiros - Estruturas em disco.pdf](../assets/21_-_Sistemas_de_ficheiros_-_Estruturas_em_disco_1737551243673_0.pdf)
 	- ![22 - Sistemas de ficheiros - Estruturas em memoria.pdf](../assets/22_-_Sistemas_de_ficheiros_-_Estruturas_em_memoria_1737551249259_0.pdf)
 - Notes
-	- Linux
+	- Unix
 		- Everything is a file
 			- Folders
 			- Pictures
@@ -11,5 +11,11 @@
 			- Pipes
 			- Drivers
 			- etc
-	-
+	- Memory hierarchy
+		- Registries
+		- Cache
+		- Ram
+		- NVME / SSD
+		- Hard drive
+		- CD DVD
 		-
