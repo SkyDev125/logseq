@@ -33,6 +33,7 @@
 				- Creation date
 				- Last Write/read
 	- Partition
+	  collapsed:: true
 		- Logical separation of filesystems
 			- Files cant be split across partitions.
 		- List Format
@@ -77,3 +78,5 @@
 					- (B/R)^3
 				- Max file size
 					- B*(12 + B/R + (B/R)^2 + (B/R)^3)
+	- Support Structures for File Systems (Optimizations)
+		- Aid the filesystem by caching
