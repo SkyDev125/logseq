@@ -43,5 +43,7 @@
 				- Data
 			- Pros
 				- Simplest way to organize a file system
+				- Usually pretty good for sequential static storage
 			- Cons
+				- Files that change sizes cause fragmentation of memory.
 				-
