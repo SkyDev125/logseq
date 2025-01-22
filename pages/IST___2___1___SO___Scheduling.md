@@ -5,7 +5,6 @@ public:: true
 	- ![16 - Escalonamento - unix e linux.pdf](../assets/16_-_Escalonamento_-_unix_e_linux_1735459490265_0.pdf)
 - Notes
 	- Scheduling Policies
-	  collapsed:: true
 		- Interactive Users in Shared time (Most Common)
 			- Properties
 			  collapsed:: true
@@ -21,7 +20,6 @@ public:: true
 			  collapsed:: true
 				- Response Time based on user interaction.
 		- Batch
-		  collapsed:: true
 			- Good
 			  collapsed:: true
 				- Productivity - Throughput
@@ -46,6 +44,7 @@ public:: true
 			- Process ID
 			- Parent Process ID
 	- User Struct (Unix)
+	  collapsed:: true
 		- Info
 			- Only needed while process is in Execution
 			- Can be stored to disk in the meantime.
