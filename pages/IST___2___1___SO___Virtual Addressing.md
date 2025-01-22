@@ -35,16 +35,19 @@
 		- Memory Management Algorithms
 			- Memory Allocation
 				- Pagination
+				  collapsed:: true
 					- Simple
 					- Finds the first free Page
 					- Free Pages list
 				- Segmentation
+				  collapsed:: true
 					- Complex
 					- Recompacts Segments on frees
-			- Finding Free blocks
-				- Best-Fit (smallest)
-					- List sorted by size
-					- Finds the smallest that still allows for segment to fit
-				- Worst-Fit (largest)
-					- List sorted by size
-					- finds the largest possible.
+				- Finding Free blocks
+					- Best-Fit (smallest)
+						- List sorted by size
+						- Finds the smallest that still allows for segment to fit
+						- Takes half the time
+					- Worst-Fit (largest)
+						- List sorted by size
+						- finds the largest possible.
