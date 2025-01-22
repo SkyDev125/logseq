@@ -8,6 +8,7 @@ public:: true
 	- Security Modes
 		- User
 			- Only a sub-set of the instructions is allowed, direct memory access restricted through virtual memory.
+			- Uses interruptions to switch
 		- Kernel
 			- Full unrestricted Access
 	- SO Structures
