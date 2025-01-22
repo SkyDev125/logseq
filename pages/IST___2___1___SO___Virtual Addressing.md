@@ -29,4 +29,5 @@
 				- Virtual Address + Offset
 		- TBL - Translation Lookaside Buffer
 			- Stores most commonly used page addresses so it doesnt waste time going to the table and waiting for conversion
-			- Small buffer
+			- Small buffer (size changes based on quantum)
+			-
