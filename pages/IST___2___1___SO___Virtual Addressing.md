@@ -47,7 +47,10 @@
 					- Best-Fit (smallest)
 						- List sorted by size
 						- Finds the smallest that still allows for segment to fit
-						- Takes half the time
 					- Worst-Fit (largest)
 						- List sorted by size
 						- finds the largest possible.
+						- Makes it nearly impossible to get large segments
+					- First-fit
+						- Gets
+						-
