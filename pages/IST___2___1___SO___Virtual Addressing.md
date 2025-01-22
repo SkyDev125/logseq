@@ -129,4 +129,7 @@
 						-
 					- NRU - Not Recently Used
 						- Bit R and M in Page table
-						- R = 1
+							- R = 1 when read
+							- M = 1 when written
+						- 0 -> R = 0, M = 0
+						- 1: R=
