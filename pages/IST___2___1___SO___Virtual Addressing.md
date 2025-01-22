@@ -4,6 +4,7 @@
 	- ![20 - MV4 - Algoritmos 2024-25.pdf](../assets/20_-_MV4_-_Algoritmos_2024-25_1737552099487_0.pdf)
 - Notes
 	- Memory Management Unit
+	  collapsed:: true
 		- Redirects "virtual addresses" to actual addresses in memory.
 		- Segmentation
 			- Cons
@@ -25,4 +26,6 @@
 				- Instructions need to be restartable due to fragmentation of processes.
 			- Calculating physical address
 				- Virtual Address + Offset
+		-
+	- TBL - Translation Lookaside Buffer
 		-
