@@ -67,5 +67,7 @@
 					- Used in segmented memory
 					- OS determines when to load the block into primary memory
 				- On demand
-					-
+					- Used in paginated memory
+					- A fault is generated when trying to access and OS receives it, loading to primary memory
 				- Prefetching
+					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
