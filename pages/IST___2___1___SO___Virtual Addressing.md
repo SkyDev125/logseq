@@ -64,7 +64,12 @@
 						- spreads tiny blocks across the memory (bad fragmentation)
 						-
 			- Memory Transfer
-				-
+				- Properties
+					- Each process needs to have at least
+						- A code segment
+						- data segment
+						- and stack in memory
+					- Swapping occurs if primary memory runs out
 				- On request
 				  collapsed:: true
 					- Used in segmented memory
