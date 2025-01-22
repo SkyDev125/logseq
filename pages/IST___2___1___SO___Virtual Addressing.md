@@ -69,7 +69,9 @@
 						- A code segment
 						- data segment
 						- and stack in memory
-					- Swapping occurs if primary memory runs out
+					- Swapping occurs if primary memory runs out.
+					- pages/segments that aren't currently in use get moved to secondary memory.
+					-
 				- On request
 				  collapsed:: true
 					- Used in segmented memory
