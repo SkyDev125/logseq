@@ -85,4 +85,7 @@
 				- Prefetching
 				  collapsed:: true
 					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
+				- Swapping
+					- Focuses on low priority processes, or blocked processes
+					-
 				-
