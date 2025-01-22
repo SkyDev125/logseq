@@ -11,9 +11,11 @@
 				- Replaces the current block with an equal or smaller block from swap
 				- the process wont use all the memory allocated for it. internal fragmentation too.
 		- Pagination
-			- Split in multiple small pages
-			- Each process thinks it has the entire memory for itself.
-			- Page table converts the logical
+			- Properties
+				- Split in multiple small pages
+				- Each process thinks it has the entire memory for itself.
+				- Page table converts the Process memory to real memory
+				- Unused Pages go to swap.
 			- Pros
 				- Programmer doesnt need to worry about any virtual memory
 				-
