@@ -5,9 +5,11 @@ public:: true
 	- ![14 - Organizacao-sistemas-operativos e despacho.pdf](../assets/14_-_Organizacao-sistemas-operativos_e_despacho_1735458139693_0.pdf)
 	-
 - Notes
-	- Security
-		- User Mode
+	- Security Modes
+		- User
+			- Only a sub-set of the instructions is allowed, direct memory access restricted through virtual memory.
 		- Kernel
+			- Full unrestricted Access
 	- SO Structures
 	  collapsed:: true
 		- Monolith
