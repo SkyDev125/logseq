@@ -113,9 +113,11 @@
 				- FIFO
 					- Uses time to define when to move it out of memory
 					- LRU - Least Recently Used
+					  collapsed:: true
 						- Efficient due to reference locality
 						- Expensive in latency
 					- Aproximation
+					  collapsed:: true
 						- Bit R
 						  collapsed:: true
 							- Set by MMU when page is accessed
@@ -123,5 +125,8 @@
 							- 0 after finished use
 						- R = 0 -> Increase age group
 						- R = 1, Reset age group
-						- G
+						- Sent to "free blocks list" after reaching max age group.
 						-
+					- NRU - Not Recently Used
+						- Bit R and M in Page table
+						- R = 1
