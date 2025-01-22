@@ -47,5 +47,9 @@
 			- Cons
 				- Files that change sizes cause fragmentation of memory.
 			- Can be improved through creating directories that allow for the caching of searches of certain
-	- FAT
-		- maximum ammount of files
+		- I-Nodes
+			- Linux
+				- I-Node table
+			- Windows
+				- MFT - Master File Table
+			-
