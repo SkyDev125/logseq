@@ -21,6 +21,7 @@
 		- CD DVD
 	- File Object
 		- Byte Vector Structure
+		  collapsed:: true
 			- Id
 			- Name
 			- offset
