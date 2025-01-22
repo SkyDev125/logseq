@@ -64,4 +64,7 @@
 					- Direct link to data blocks
 				- 13
 					- 1 level of indirection
-					- inside it will have another 15
+					- inside it will have a data block that will point to other data blocks B/R
+				- 14
+					- 2 levels of indirection
+					- First data block, will point to other data blocks, that then
