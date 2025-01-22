@@ -4,4 +4,5 @@
 	- ![20 - MV4 - Algoritmos 2024-25.pdf](../assets/20_-_MV4_-_Algoritmos_2024-25_1737552099487_0.pdf)
 - Notes
 	- Memory Management Unit
-		- Redirects "virtual addresses" to actual addresses in memory
+		- Redirects "virtual addresses" to actual addresses in memory.
+		-
