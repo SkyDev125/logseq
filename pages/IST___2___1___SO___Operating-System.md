@@ -1,7 +1,9 @@
 public:: true
 
 - References
+	- ![Intro 2- Organizacao dos Sistemas Operativos.pdf](../assets/Intro_2-_Organizacao_dos_Sistemas_Operativos_1737552007505_0.pdf)
 	- ![14 - Organizacao-sistemas-operativos e despacho.pdf](../assets/14_-_Organizacao-sistemas-operativos_e_despacho_1735458139693_0.pdf)
+	-
 - Notes
 	- SO Structures
 	  collapsed:: true
