@@ -48,6 +48,7 @@
 				- Files that change sizes cause fragmentation of memory.
 			- Can be improved through creating directories that allow for the caching of searches of certain
 		- I-Nodes
+			- Uses blocks of fixed size to store data. knowing where they are through addresses.
 			- Linux
 				- I-Node table
 			- Windows
