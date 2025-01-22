@@ -86,11 +86,16 @@
 				  collapsed:: true
 					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
 				- Swapping
+				  collapsed:: true
 					- Focuses on low priority processes, or blocked processes
 					- Has a minimum ammount of time it gives a process before swapping it again to disk.
 					- Process size (many pages make it harder to swap)
 				- Trashing
+				  collapsed:: true
 					- Occurs when multi-processing is elevated
+					- And memory runs out.
 					- Many processes with tiny pages.
-					- M
+					- Multiple swaps occuring all at once.
+					- Most of the time is wasted in moving in and out of the disk..
+				-
 				-
