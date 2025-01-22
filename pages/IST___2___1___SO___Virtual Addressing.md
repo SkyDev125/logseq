@@ -86,17 +86,22 @@
 					- Many processes with tiny pages.
 					- Multiple swaps occuring all at once.
 					- Most of the time is wasted in moving in and out of the disk..
-				- Common
-				- On request
+				- Working-sets
+					-
+				- Transfer types
 				  collapsed:: true
-					- Used in segmented memory
-					- OS determines when to load the block into primary memory
-				- On demand
-				  collapsed:: true
-					- Used in paginated memory
-					- A fault is generated when trying to access and OS receives it, loading to primary memory
-				- Prefetching
-				  collapsed:: true
-					- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
+					- On request
+					  collapsed:: true
+						- Used in segmented memory
+						- OS determines when to load the block into primary memory
+					- On demand
+					  collapsed:: true
+						- Used in paginated memory
+						- A fault is generated when trying to access and OS receives it, loading to primary memory
+					- Prefetching
+					  collapsed:: true
+						- The OS thinks this will be needed soon, so it loads it early hoping it will be helpful.
+				-
+				-
 				-
 				-
