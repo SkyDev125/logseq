@@ -16,13 +16,12 @@ public:: true
 			- Uses Device drivers to be able to handle evolution like new peripherals.
 			- Is a single system organized in modules
 		- Layers
-			-
-			- Easy to modify the code of a single layer.
+			- Each layer builds on top of another.
+			- Easy to modify the code of a each layer.
 			- More security
 		- Micro-Kernel
 			- Only has the very essentials.
 	- Boot Cycle
-	  collapsed:: true
 		- Turn On
 		- Bios
 			- Copies the execution of the bootloader to memory and runs it.
