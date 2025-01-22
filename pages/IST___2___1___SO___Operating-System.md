@@ -16,7 +16,6 @@ public:: true
 		- Micro-Kernel
 			- Only has the very essentials.
 	- Boot Cycle
-	  collapsed:: true
 		- Turn On
 		- Bios
 			- Copies the execution of the bootloader to memory and runs it.
@@ -29,17 +28,12 @@ public:: true
 			- Starts other processes. Like login.
 		-
 	- Process Manager
-	  collapsed:: true
-		- Scheduling
-		  collapsed:: true
-			- Priority Queue
 		- Transfer of control
 		  collapsed:: true
 			- Interruption Treatment
 				- Changes stack pointer to kernel's stack
 				- Saves information needed to go back to User's stack
 	- Process
-	  collapsed:: true
 		- Hardware
 			- Processor Registries
 			- Memory Registries
