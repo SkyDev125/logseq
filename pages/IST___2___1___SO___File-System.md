@@ -21,6 +21,8 @@
 		- CD DVD
 	- File Object
 		- Byte Vector Structure
+			- Id
 			- Name
-			-
+			- offset
+			- metadata
 		-
