@@ -30,4 +30,4 @@
 		- TBL - Translation Lookaside Buffer
 			- Stores most commonly used page addresses so it doesnt waste time going to the table and waiting for conversion
 			- Small buffer (size changes based on quantum)
-			-
+			- Operating system updates it each time it fails to access a specific page.
