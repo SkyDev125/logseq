@@ -59,12 +59,16 @@
 		- EXT
 			- Stores metadata in the described fields
 			- Stores DATA in I_blocks
+				- B = Data block size
+				- R =
 				- Size 15
 				- 1-12
 					- Direct link to data blocks
 				- 13
 					- 1 level of indirection
 					- 1 Data block will be used, to point to other data blocks with actual data.
+					- B/R
 				- 14
 					- 2 levels of indirection
-					- Same as 1 level
+					- Same as 1 level, but the first reserved data block, will point to B/R reserved data blocks, which then point to actual data.
+					- (B/R)^2
