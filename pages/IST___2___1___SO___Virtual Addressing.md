@@ -87,7 +87,8 @@
 					- Multiple swaps occuring all at once.
 					- Most of the time is wasted in moving in and out of the disk..
 				- Working-sets
-					-
+					- Helps prevent trashing
+					- A process usually is working in a very tiny amount of its total memory.
 				- Transfer types
 				  collapsed:: true
 					- On request
