@@ -64,6 +64,7 @@
 						- spreads tiny blocks across the memory (bad fragmentation)
 						-
 			- Memory Transfer
+			  collapsed:: true
 				- Properties
 				  collapsed:: true
 					- Each process needs to have at least
@@ -87,6 +88,7 @@
 					- Multiple swaps occuring all at once.
 					- Most of the time is wasted in moving in and out of the disk..
 				- Working-sets
+				  collapsed:: true
 					- Helps prevent trashing
 					- A process usually is working in a very tiny amount of its total memory.
 					- A process will only be swapped into primary memory, if the minimum size of its working set can be moved all at once
@@ -107,3 +109,6 @@
 				-
 				-
 				-
+			- Memory Substitution
+				- FIFO
+					- Uses time to define when to move it
