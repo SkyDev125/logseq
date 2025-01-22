@@ -117,7 +117,11 @@
 						- Expensive in latency
 					- Aproximation
 						- Bit R
+						  collapsed:: true
 							- Set by MMU when page is accessed
+							- 1 when accessed
+							- 0 after finished use
 						- R = 0 -> Increase age group
 						- R = 1, Reset age group
+						- G
 						-
