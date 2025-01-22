@@ -111,4 +111,7 @@
 				-
 			- Memory Substitution
 				- FIFO
-					- Uses time to define when to move it
+					- Uses time to define when to move it out of memory
+					- LRU - Least Recently Used
+						- Efficient due to reference locality
+						- Expensive
