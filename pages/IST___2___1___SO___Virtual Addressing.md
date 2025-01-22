@@ -43,5 +43,8 @@
 					- Recompacts Segments on frees
 			- Finding Free blocks
 				- Best-Fit (smallest)
-					- F
+					- List sorted by size
+					- Finds the smallest that still allows for segment to fit
 				- Worst-Fit (largest)
+					- List sorted by size
+					- finds the largest possible.
