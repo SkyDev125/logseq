@@ -1,0 +1,5 @@
+- References
+	- ![SF 1 - Sistema de ficheiros - visao global.pdf](../assets/SF_1_-_Sistema_de_ficheiros_-_visao_global_1737551226977_0.pdf)
+	- ![21 - Sistemas de ficheiros - Estruturas em disco.pdf](../assets/21_-_Sistemas_de_ficheiros_-_Estruturas_em_disco_1737551243673_0.pdf)
+	- ![22 - Sistemas de ficheiros - Estruturas em memoria.pdf](../assets/22_-_Sistemas_de_ficheiros_-_Estruturas_em_memoria_1737551249259_0.pdf)
+- Notes
