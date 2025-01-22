@@ -54,4 +54,5 @@
 				- MFT - Master File Table
 			- Volume Descriptor
 				- Replicated in many places of the Partition to ensure it can be recoverable
-				- Stores the data about
+				- Stores the data about the I-nodes Table and the free blocks.
+				-
