@@ -126,8 +126,8 @@
 						- R = 0 -> Increase age group
 						- R = 1, Reset age group
 						- Sent to "free blocks list" after reaching max age group.
-						-
 					- NRU - Not Recently Used
+					  collapsed:: true
 						- Bit R and M in Page table
 							- R = 1 when read
 							- M = 1 when written
