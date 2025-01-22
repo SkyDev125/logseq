@@ -79,6 +79,7 @@
 				- Max file size
 					- B*(12 + B/R + (B/R)^2 + (B/R)^3)
 	- Links
+	  collapsed:: true
 		- Soft
 			- Stores the path to the file inside
 			- Stops working if the original file is deleted
@@ -86,7 +87,9 @@
 			- Points to the exact inode of the file
 			- Only if all hard links get deleted, does the file get marked as "deleted"
 	- Support Structures for File Systems (Optimizations)
+	  collapsed:: true
 		- Aid the filesystem by caching
 		- Make requests faster
 		- isolate the processes from File System.
 		- Allows for multiple File systems at the same time.
+			- Each has their own functions and lets the VFS know how to deal with them.
