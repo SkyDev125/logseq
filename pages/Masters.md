@@ -1,0 +1,1 @@
+- Main page for all Master degree's information regarding multiple different
