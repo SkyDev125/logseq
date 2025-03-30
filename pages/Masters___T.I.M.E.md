@@ -1,5 +1,7 @@
--
--
+- Order of relevance:
+	- IST + TUM
+	- IST + KTH
+	- IST + PoliMi
 - IST + TUM
 	- Germany
 	- Free (tiny fee)
