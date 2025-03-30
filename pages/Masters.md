@@ -1,6 +1,7 @@
 - Main page for all Master degree's information regarding multiple different universities and my general options.
-- Order:
+- First Plan:
 	- ETH
 	- EPFL
 	- KTH
 	- TUM
+- Second Plan (T.I.M.E)
