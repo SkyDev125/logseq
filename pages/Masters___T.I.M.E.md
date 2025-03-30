@@ -1,6 +1,9 @@
 - IST + TUM
 	- Germany
+	- Free
 - IST + KTH
 	- Sweden
+	- Free
 - IST + PoliMi
-	-
+	- Italy
+	- Income-Based
