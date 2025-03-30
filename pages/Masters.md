@@ -1,1 +1,1 @@
-- Main page for all Master degree's information regarding multiple different
+- Main page for all Master degree's information regarding multiple different universities and my general options.
