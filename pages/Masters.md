@@ -1,8 +1,8 @@
 - Main page for all Master degree's information regarding multiple different universities and my general options.
-- Order of Importance:
+- Order of Relevance:
 	- [[Masters/ETH]]
-	-
-	- KTH
-	- TUM
+	- [[Masters/EPFL]]
+	- [[Masters/TUM]]
+	- [[Masters/KTH]]
 	- [[Masters/T.I.M.E]]
-	- IST
+	- [[Masters/IST]]
