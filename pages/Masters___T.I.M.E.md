@@ -1,2 +1,6 @@
 - IST + TUM
-- IST +
+	- Germany
+- IST + KTH
+	- Sweden
+- IST + PoliMi
+	-
