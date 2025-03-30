@@ -1,7 +1,8 @@
 - Main page for all Master degree's information regarding multiple different universities and my general options.
-- First Plan:
-	- ETH
-	- EPFL
+- Order of Importance:
+	- [[Masters/ETH]]
+	-
 	- KTH
 	- TUM
-- Second Plan (T.I.M.E)
+	- [[Masters/T.I.M.E]]
+	- IST
