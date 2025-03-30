@@ -11,3 +11,9 @@
 - IST + PoliMi
 	- Italy
 	- Income-Based
+- LATER T.I.M.E Research
+  SCHEDULED: <2025-04-04 Fri>
+  DEADLINE: <2025-04-04 Fri>
+  :AGENDA:
+  estimated: 2h
+  :END:
