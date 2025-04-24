@@ -1,4 +1,6 @@
 - Master Degrees Available:
+	- Computer Science and Engineering
+		-
 	-
 - LATER IST Research
   SCHEDULED: <2025-04-05 Sat>
