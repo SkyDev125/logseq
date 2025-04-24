@@ -14,8 +14,11 @@
 	- Dates
 		- First Call
 			- March 3 to March 21 - Applications
-		- June 16 to July 11 - Applications (2nd call)
-		- April 11 - Temporary Results
+			- April 11 - Temporary Results
+			-
+		- Second Call
+			- June 16 to July 11 - Applications
+			- July 28 - Temporary Results
 		-
 		-
 -
