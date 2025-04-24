@@ -15,10 +15,13 @@
 		- First Call
 			- March 3 to March 21 - Applications
 			- April 11 - Temporary Results
-			-
+			- April 28 - Final Results
+			- April 28 to May 9 - Pre Registration
 		- Second Call
 			- June 16 to July 11 - Applications
 			- July 28 - Temporary Results
+			- August 29 - Final Results
+			- August 18 to August 29 - Pre Registration
 		-
 		-
 -
