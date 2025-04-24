@@ -9,7 +9,9 @@
 		- Identification Document
 		- 50€ Application fee
 		- 100€ to reserve a spot if selected. (deducted from tuition)
-		- Apply to ALAMEDA or TAGUS
+		- 1st Cycle Certificate (IST Connect) before enrollment deadline
+		- Alameda or Tagus (295)
+		-
 	- Dates
 		-
 -
