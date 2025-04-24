@@ -6,6 +6,8 @@
 		- 138 ECTS
 		- Curriculum vitae
 		- Academic transcript with grades (Fénix grades is allowed)
+		- Identification Document
+		- 50€ Application fee
 		-
 -
 	-
