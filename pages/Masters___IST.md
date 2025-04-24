@@ -2,9 +2,12 @@
 	- Super versatile (2 specializations)
 		- each specialization takes at least 4 curricular units to complete
 	- Allows for 1 Minor
-	- Application information
-		- ![image.png](../assets/image_1745516485335_0.png)
+	- Application Requirements
+		- 138 ECTS
 		-
+-
+	-
+	-
 - LATER IST Research
   SCHEDULED: <2025-04-05 Sat>
   DEADLINE: <2025-04-05 Sat>
