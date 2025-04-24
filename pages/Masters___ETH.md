@@ -1,8 +1,8 @@
 - Computer Science
 	- Majors Available:
 		- Data Management Systems
-		- Machine Inteligence - Interesting
-		- Secure and Reliable Systems - Interesting
+		- **Machine Inteligence**
+		- **Secure and Reliable Systems**
 		- Visual and Interactive Computing
 		- Theoretical Computer Science
 	- Allows for 1 Minor
