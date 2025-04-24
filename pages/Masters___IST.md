@@ -9,9 +9,10 @@
 		- Identification Document
 		- 50€ Application fee
 		- 100€ to reserve a spot if selected. (deducted from tuition)
+		- Apply to ALAMEDA or TAGUS
+	- Dates
+		-
 -
-	-
-	-
 - LATER IST Research
   SCHEDULED: <2025-04-05 Sat>
   DEADLINE: <2025-04-05 Sat>
