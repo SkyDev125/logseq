@@ -4,7 +4,8 @@
 	- Allows for 1 Minor
 	- Application Requirements
 		- 138 ECTS
-		- curriculo de matricula
+		- Curriculum vitae
+		-
 -
 	-
 	-
