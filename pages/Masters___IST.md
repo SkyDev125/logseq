@@ -1,6 +1,7 @@
 - Computer Science and Engineering
-	- Super versatile
-	- Allows for Minors
+	- Super versatile (2 specializations)
+		- each specialization takes at least 4 curricular units to complete
+	- Allows for 1 Minor
 - LATER IST Research
   SCHEDULED: <2025-04-05 Sat>
   DEADLINE: <2025-04-05 Sat>
