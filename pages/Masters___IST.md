@@ -22,7 +22,7 @@
 			- July 28 - Temporary Results
 			- August 29 - Final Results
 			- August 18 to August 29 - Pre Registration
-		-
+		- August 22 to September 1 - Registration Confirmation
 		-
 -
 - LATER IST Research
