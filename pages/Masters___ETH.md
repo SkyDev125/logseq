@@ -1,5 +1,9 @@
 - Computer Science
-	- Super versatile (2 specializations)
+	- Majors Available:
+		- Data Management Systems
+		- Machine Inteligence
+		- Secure and Reliable Systems
+		- V
 		- Each specialization takes at least 4 curricular units to complete
 	- Allows for 1 Minor
 	- Alameda or Tagus (295 total/year)
