@@ -1,11 +1,12 @@
 - Computer Science
-	- Majors Available:
+	- Majors
 		- Data Management Systems
 		- **Machine Inteligence**
 		- **Secure and Reliable Systems**
-		- Visual and Interactive Computing
+		- **Visual and Interactive Computing**
 		- Theoretical Computer Science
-	- Allows for 1 Minor
+	- Minors
+		-
 	- Alameda or Tagus (295 total/year)
 	- Application Requirements
 		- 138 ECTS
