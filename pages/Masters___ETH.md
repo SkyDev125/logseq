@@ -11,6 +11,7 @@
 		- 50€ Application fee
 		- 100€ to reserve a spot if selected. (deducted from tuition)
 		- 1st Cycle Certificate (IST Connect) before enrollment deadline
+		- C1 English Certificate
 	- Dates
 		- First Call
 			- March 3 to March 21 - Applications
