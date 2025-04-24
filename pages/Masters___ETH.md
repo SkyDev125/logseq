@@ -9,11 +9,11 @@
 		- Computer Graphics
 		- **Computer Vision**
 		- Data Management
-		- Information Security
+		- **Information Security**
 		- **Machine Learning**
 		- Networking
 		- Programming Languages and Software Engineering
-		- Systems Software
+		- **Systems Software**
 		- Theoretical Computer Science
 	- Alameda or Tagus (295 total/year)
 	- Application Requirements
