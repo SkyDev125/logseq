@@ -25,7 +25,7 @@
 		- August 22 to September 1 - Registration Confirmation
 		-
 -
-- LATER IST Research
+- DONE IST Research
   SCHEDULED: <2025-04-05 Sat>
   DEADLINE: <2025-04-05 Sat>
   :AGENDA:
