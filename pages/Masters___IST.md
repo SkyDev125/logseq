@@ -12,6 +12,10 @@
 		- 1st Cycle Certificate (IST Connect) before enrollment deadline
 		- Alameda or Tagus (295 total/year)
 	- Dates
+		- First Call
+			- March 3 to March 21 - Applications
+		- June 16 to July 11 - Applications (2nd call)
+		- April 11 - Temporary Results
 		-
 		-
 -
