@@ -1,10 +1,10 @@
 - Computer Science
 	- Majors Available:
 		- Data Management Systems
-		- Machine Inteligence
-		- Secure and Reliable Systems
-		- V
-		- Each specialization takes at least 4 curricular units to complete
+		- Machine Inteligence - Interesting
+		- Secure and Reliable Systems - Interesting
+		- Visual and Interactive Computing
+		- Theoretical Computer Science
 	- Allows for 1 Minor
 	- Alameda or Tagus (295 total/year)
 	- Application Requirements
