@@ -1,6 +1,6 @@
 - Computer Science and Engineering
 	- Super versatile (2 specializations)
-		- each specialization takes at least 4 curricular units to complete
+		- Each specialization takes at least 4 curricular units to complete
 	- Allows for 1 Minor
 	- Alameda or Tagus (295 total/year)
 	- Application Requirements
