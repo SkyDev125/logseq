@@ -2,6 +2,7 @@
 	- Super versatile (2 specializations)
 		- each specialization takes at least 4 curricular units to complete
 	- Allows for 1 Minor
+	- Alameda or Tagus (295 total/year)
 	- Application Requirements
 		- 138 ECTS
 		- Curriculum vitae
@@ -10,7 +11,6 @@
 		- 50€ Application fee
 		- 100€ to reserve a spot if selected. (deducted from tuition)
 		- 1st Cycle Certificate (IST Connect) before enrollment deadline
-		- Alameda or Tagus (295 total/year)
 	- Dates
 		- First Call
 			- March 3 to March 21 - Applications
