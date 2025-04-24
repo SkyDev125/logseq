@@ -11,7 +11,7 @@
 		- Data Management
 		- **Information Security**
 		- **Machine Learning**
-		- Networking
+		- **Networking**
 		- Programming Languages and Software Engineering
 		- **Systems Software**
 		- Theoretical Computer Science
