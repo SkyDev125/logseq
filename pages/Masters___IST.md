@@ -10,9 +10,9 @@
 		- 50€ Application fee
 		- 100€ to reserve a spot if selected. (deducted from tuition)
 		- 1st Cycle Certificate (IST Connect) before enrollment deadline
-		- Alameda or Tagus (295)
-		-
+		- Alameda or Tagus (295 total/year)
 	- Dates
+		-
 		-
 -
 - LATER IST Research
