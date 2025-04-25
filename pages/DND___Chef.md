@@ -55,6 +55,13 @@
   Your mastery of resonance allows you to manipulate spells in unique ways.
   
   Once per long rest, when you cast a bard spell of 1st level or higher, you can apply **one** of the following Resonant Spellweaving options:
+- | Option | Effect |
+  | ---- | ---- | ---- |
+  | **Twin** | If the spell normally targets only one creature, you can target a second creature within range with the same spell. |
+  | **Split** | If the spell normally affects an area (cone, sphere, cube, line), you can split the area into two separate zones of **half the original size** each, centered on different points within range. |
+  | **Delay** | You can delay the spell's activation until the **start of your next turn**, holding the resonance until the perfect moment. |
+- <!--EndFragment-->
+- ---
 - ## 🎼 Perfect Echo
   
   (*14th Level*)
