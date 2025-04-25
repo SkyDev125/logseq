@@ -1,5 +1,4 @@
-- ---
-- # 🎻 Bard: College of Resonant Echoes
+# 🎻 Bard: College of Resonant Echoes
 - ---
 - # Overview
   ---
