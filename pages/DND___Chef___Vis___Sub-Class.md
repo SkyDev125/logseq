@@ -1,5 +1,4 @@
-public:: true
-
+- ---
 - # 🎻 Bard: College of Resonant Echoes
 - ---
 - # Overview
