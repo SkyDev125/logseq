@@ -56,11 +56,25 @@
   
   Once per long rest, when you cast a bard spell of 1st level or higher, you can apply **one** of the following Resonant Spellweaving options:
 - | Option | Effect |
+  | ---- | ---- | ---- |
   | **Twin** | If the spell normally targets only one creature, you can target a second creature within range with the same spell. |
   | **Split** | If the spell normally affects an area (cone, sphere, cube, line), you can split the area into two separate zones of **half the original size** each, centered on different points within range. |
   | **Delay** | You can delay the spell's activation until the **start of your next turn**, holding the resonance until the perfect moment. |
-- <!--EndFragment-->
-- ---
+- ## 🧘 Resonant Communion
+  
+  (*6th Level*)
+  
+  You can conduct a **resonant ritual** during a short or long rest with a number of willing creatures up to your proficiency bonus (including yourself).
+  
+  At the end of the ritual, you temporarily learn **one spell** of your choice from **any class**, provided it is a **Divination** or **Necromancy** spell and of a level you can cast (maximum level = number of participants).
+  
+  This spell counts as a bard spell for you but does not count against your number of spells known.
+  
+  You forget the spell at the end of your next long rest.
+  
+  You can perform this ritual **once per long rest**.
+  
+  ---
 - ## 🎼 Perfect Echo
   
   (*14th Level*)
@@ -68,4 +82,5 @@
   You have mastered the Worldsong's harmonies.
   
   Whenever you roll on the Echoes Table, you can roll twice and choose which result to use.
--
+  
+  If both rolls show the same number, you can **choose any Echo** effect from the table instead.
