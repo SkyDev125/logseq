@@ -60,6 +60,7 @@
   | **Twin** | If the spell normally targets only one creature, you can target a second creature within range with the same spell. |
   | **Split** | If the spell normally affects an area (cone, sphere, cube, line), you can split the area into two separate zones of **half the original size** each, centered on different points within range. |
   | **Delay** | You can delay the spell's activation until the **start of your next turn**, holding the resonance until the perfect moment. |
+- ---
 - ## 🧘 Resonant Communion
   
   (*6th Level*)
