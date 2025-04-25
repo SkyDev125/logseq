@@ -2,12 +2,13 @@ public:: true
 
 - # 🎻 Bard: College of Resonant Echoes
 - ---
-- ## Overview
+- # Overview
+  ---
   > Bards of the **College of Resonant Echoes** do not merely perform songs; they **conduct the lingering harmonies of existence**. 
   They attune to the **resonant memory** left behind by ancient magic, history, and emotion, weaving these echoes into powerful manifestations.
   To such bards, sound is reality, memory is substance, and performance is alignment with the Worldsong.
 - ---
-- ## Features
+- # Features
   
   ---
 - ## 🌀 Guiding Echoes
