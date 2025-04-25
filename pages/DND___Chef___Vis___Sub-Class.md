@@ -62,6 +62,7 @@ public:: true
   | 10 | **Echo of the World’s Breath** | The target breathes out a 30-foot cone of resonant fire. Each creature in the area must make a Dexterity saving throw, taking fire damage equal to **four rolls** of your Bardic Inspiration die on a failure, or half as much on a success. |
   | 11 | **Echo of the Restoring Chord** | The target regains hit points equal to **two rolls** of your Bardic Inspiration die + your Charisma modifier. In addition, one condition (blinded, deafened, paralyzed, petrified, or poisoned) ends on them. |
   | 12 | **Echo of the Unfathomable Tune** | The target must succeed on an Intelligence saving throw or take psychic damage equal to **three rolls** of your Bardic Inspiration die and be **stunned** until the end of their next turn. |
+  
   ---
 - ## 🎵 Resonant Spellweaving
   
@@ -70,12 +71,14 @@ public:: true
   Your mastery of resonance allows you to manipulate spells in unique ways.
   
   Once per long rest, when you cast a bard spell of 1st level or higher, you can apply **one** of the following Resonant Spellweaving options:
-- | Option | Effect |
+  
+  | Option | Effect |
   | ---- | ---- | ---- |
   | **Twin** | If the spell normally targets only one creature, you can target a second creature within range with the same spell. |
   | **Split** | If the spell normally affects an area (cone, sphere, cube, line), you can split the area into two separate zones of **half the original size** each, centered on different points within range. |
   | **Delay** | You can delay the spell's activation until the **start of your next turn**, holding the resonance until the perfect moment. |
-- ---
+  
+  ---
 - ## 🧘 Resonant Communion
   
   (*6th Level*)
