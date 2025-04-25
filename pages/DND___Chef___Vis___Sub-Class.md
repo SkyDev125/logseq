@@ -1,6 +1,7 @@
 # 🎻 Bard: College of Resonant Echoes
 - ---
 - # Overview
+  ---
   Bards of the **College of Resonant Echoes** do not merely perform songs; they **conduct the lingering harmonies of existence**.
   
   They attune to the **resonant memory** left behind by ancient magic, history, and emotion, weaving these echoes into powerful manifestations.
@@ -44,8 +45,6 @@
   You can hold only one Echo at a time.
   
   If the echo requires a saving throw, the DC equals your spell save DC.
-  
-  *(The Echoes Table uses the same effects as Spirit Tales, just rethemed as "echoes" instead of "tales.")*
   
   | Bardic Inspiration Die Roll | Resonant Echo | Effect |
   | ---- | ---- | ---- |
