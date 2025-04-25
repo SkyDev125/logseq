@@ -9,10 +9,6 @@ public:: true
   
   To such bards, sound is reality, memory is substance, and performance is alignment with the Worldsong.
   
-  
-  
-  
-  
   ---
 - ## Features
   
