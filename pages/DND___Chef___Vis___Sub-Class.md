@@ -1,4 +1,6 @@
-# 🎻 Bard: College of Resonant Echoes
+public:: true
+
+- # 🎻 Bard: College of Resonant Echoes
 - ---
 - ## Overview
 - Bards of the **College of Resonant Echoes** do not merely perform songs; they **conduct the lingering harmonies of existence**.
