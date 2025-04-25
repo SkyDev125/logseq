@@ -80,7 +80,7 @@
   
   You can conduct a **resonant ritual** during a short or long rest with a number of willing creatures up to your proficiency bonus (including yourself).
   
-  At the end of the ritual, you temporarily learn **one spell** of your choice from **any class**, provided it is a **Divination** or **Necromancy** spell and of a level you can cast (maximum level = number of participants).
+  At the end of the ritual, you temporarily learn **one spell** of your choice from **any class**, provided it is a **Divination** or **Transmutation** spell and of a level you can cast (maximum level = number of participants).
   
   This spell counts as a bard spell for you but does not count against your number of spells known.
   
