@@ -48,6 +48,20 @@
   *(The Echoes Table uses the same effects as Spirit Tales, just rethemed as "echoes" instead of "tales.")*
   
   ---
+- | Bardic Inspiration Die Roll | Resonant Echo | Effect |
+  | ---- | ---- | ---- |
+  | 1 | **Echo of the Clever Instinct** | For the next 10 minutes, whenever the target makes an Intelligence, Wisdom, or Charisma check, they roll an extra die (same type as your Bardic Inspiration die) and add it to the check. |
+  | 2 | **Echo of the Dueling Will** | You make a melee spell attack against a target. On a hit, it takes force damage equal to **two rolls** of your Bardic Inspiration die + your Charisma modifier. |
+  | 3 | **Echo of the Shared Heart** | The target and one creature within 5 feet of them both gain temporary hit points equal to **one roll** of your Bardic Inspiration die + your Charisma modifier. |
+  | 4 | **Echo of the Fading Step** | The target can immediately use their reaction to **teleport up to 30 feet** to an unoccupied space they can see. When they teleport, they can choose creatures (up to your Charisma modifier) within 30 feet to **also teleport** in the same way. |
+  | 5 | **Echo of the Avenging Pulse** | For 1 minute, any creature that hits the target with a melee attack takes force damage equal to **one roll** of your Bardic Inspiration die. |
+  | 6 | **Echo of the Wandering Path** | The target gains temporary hit points equal to **one roll** of your Bardic Inspiration die + your Bard level. While they have these hit points, their walking speed increases by 10 feet and they gain +1 AC. |
+  | 7 | **Echo of the Shifting Mind** | The target must succeed on a Wisdom saving throw or take psychic damage equal to **two rolls** of your Bardic Inspiration die, and become **incapacitated** until the end of its next turn. |
+  | 8 | **Echo of the Vanishing Form** | The target becomes **invisible** until the end of its next turn or until it hits a creature with an attack. If it hits, the creature struck takes necrotic damage equal to **one roll** of your Bardic Inspiration die and is **frightened** of the target until end of their next turn. |
+  | 9 | **Echo of the Thunderous Step** | Each creature of the target’s choice within 30 feet must make a Strength saving throw. On a failure, they take thunder damage equal to **three rolls** of your Bardic Inspiration die and are knocked prone. Success = half damage and no prone. |
+  | 10 | **Echo of the World’s Breath** | The target breathes out a 30-foot cone of resonant fire. Each creature in the area must make a Dexterity saving throw, taking fire damage equal to **four rolls** of your Bardic Inspiration die on a failure, or half as much on a success. |
+  | 11 | **Echo of the Restoring Chord** | The target regains hit points equal to **two rolls** of your Bardic Inspiration die + your Charisma modifier. In addition, one condition (blinded, deafened, paralyzed, petrified, or poisoned) ends on them. |
+  | 12 | **Echo of the Unfathomable Tune** | The target must succeed on an Intelligence saving throw or take psychic damage equal to **three rolls** of your Bardic Inspiration die and be **stunned** until the end of their next turn. |
 - ## 🎵 Resonant Spellweaving
   
   (*6th Level*)
