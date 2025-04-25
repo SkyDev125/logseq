@@ -55,3 +55,11 @@
   Your mastery of resonance allows you to manipulate spells in unique ways.
   
   Once per long rest, when you cast a bard spell of 1st level or higher, you can apply **one** of the following Resonant Spellweaving options:
+- ## 🎼 Perfect Echo
+  
+  (*14th Level*)
+  
+  You have mastered the Worldsong's harmonies.
+  
+  Whenever you roll on the Echoes Table, you can roll twice and choose which result to use.
+-
