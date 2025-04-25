@@ -46,8 +46,6 @@
   If the echo requires a saving throw, the DC equals your spell save DC.
   
   *(The Echoes Table uses the same effects as Spirit Tales, just rethemed as "echoes" instead of "tales.")*
-  
-  ---
 - | Bardic Inspiration Die Roll | Resonant Echo | Effect |
   | ---- | ---- | ---- |
   | 1 | **Echo of the Clever Instinct** | For the next 10 minutes, whenever the target makes an Intelligence, Wisdom, or Charisma check, they roll an extra die (same type as your Bardic Inspiration die) and add it to the check. |
